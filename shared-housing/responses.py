@@ -1,4 +1,4 @@
-["What is your relationship status?",
+handled = [
  "What is your gender?",
  "What genders are you open to living with?",
  "Not open to living with a particular gender?",
@@ -6,6 +6,13 @@
  "Do you have kids?",
  "How many kids?",
  "What ages?",
+]
+
+useless = [
+ "What is your relationship status?",
+]
+
+unaddressed = [
  "What is your education level?",
  "Do you smoke tobacco?",
  "Do you smoke marijuana?",

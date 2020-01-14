@@ -1,0 +1,401 @@
+ID,address,alcohol_use_ok,desired_host_type,gender,guest_in_relationship,guest_is_parent,indoor_smoking_ok,name,number_of_guests,pets,pets_not_ok
+0,"077 Mata Lodge Apt. 306
+West John, RI 79386",1,full,male,1,0,0,Tammy Bush,2,[],[]
+1,"692 Tran Mountain Suite 321
+East James, CA 83197",1,full,mtf,0,0,0,Elizabeth Cole,1,[],[]
+2,"8528 Thompson Point Apt. 909
+New Joshua, OK 18783",1,full,nb,0,0,0,Nicole Moyer,1,[],[]
+3,"USCGC Norton
+FPO AP 14209",1,full,female,0,0,0,Chelsea Henson,1,[],[]
+4,"4764 Andrew Ville
+Glennton, MD 67350",1,full,male,1,0,0,Molly Hill,1,[],[]
+5,"0866 Reed Lights Suite 869
+Martinstad, TN 05766",1,respite,female,1,0,0,Heather Miller,1,[],['dog']
+6,"USS Buck
+FPO AE 98186",1,full,female,0,0,0,Lisa Jimenez,1,[],[]
+7,"90412 Nicole Hills Apt. 104
+Lake Nathanshire, HI 53045",1,full,male,0,0,0,Patricia Ballard,3,[],[]
+8,"70740 Williams Prairie
+Port Ashleyfurt, IA 93800",1,full,ftm,0,0,1,Jennifer Olsen,1,"['bird', 'fish', 'other']",[]
+9,"08470 Calderon Throughway
+East Lisa, WY 86915",1,full,female,0,0,0,Anthony Giles,1,[],"['other', 'cat']"
+10,"2636 Paul Drive Apt. 655
+Port Jessicashire, OH 72118",1,full,female,0,0,0,Paula Turner,2,[],['cat']
+11,"8866 Steven Rapid
+New Jennifer, IA 49978",1,full,female,0,0,0,Erin Mayo,1,[],[]
+12,"989 Stacey Keys Apt. 565
+Jennifermouth, ND 82827",0,full,female,1,0,0,Tabitha Lawrence,2,[],[]
+13,"944 Courtney Burgs
+Joneston, WY 75213",1,full,male,0,0,0,Patricia Wallace,1,[],[]
+14,"62337 Peterson Union
+Peterville, IA 01725",1,respite,ftm,1,0,0,Carl Kelly,1,[],[]
+15,"PSC 4266, Box 1496
+APO AP 71420",1,full,male,0,1,0,Benjamin Turner,1,[],[]
+16,"44617 Morris Lock Apt. 458
+Dyermouth, KY 55981",1,full,female,1,0,0,Shannon Carroll,1,[],['cat']
+17,"793 Adrienne Lake Suite 744
+South Chadstad, WV 58135",1,respite,male,0,0,0,Adam Kennedy,1,[],['other']
+18,"225 Fernandez Forge
+East Christopher, ND 95184",0,respite,female,0,1,0,Nicole Bell,1,[],[]
+19,"6533 Jennings Glen
+Kyleborough, FL 99347",0,full,male,1,0,1,Debra Miller,2,[],[]
+20,"413 Odonnell Run Apt. 672
+Bernardport, MD 85535",1,respite,male,0,0,1,Jeffrey Oconnor,2,[],[]
+21,"09129 Jones Highway Suite 662
+Port Kennethview, VA 38034",1,full,male,0,0,0,Thomas Warren,1,[],[]
+22,"615 Campbell Prairie Apt. 319
+Lake Gabrielle, CT 85677",1,full,mtf,1,0,1,Cole Johnston,2,"['cat', 'bird']",[]
+23,"647 Randy Estates Suite 366
+Hartmanside, NH 38436",1,full,female,0,0,1,Jennifer Forbes,1,[],[]
+24,"76875 Green Fords Apt. 093
+West Lance, VA 63601",0,full,male,1,0,1,Donald Wells,1,[],[]
+25,"81378 Justin Radial
+Vincentmouth, FL 42848",1,respite,female,0,0,1,Crystal Smith,1,[],['other']
+26,"96120 Lisa Summit
+Port Nancy, OH 77854",1,full,female,0,0,0,Allison Martinez,1,[],[]
+27,"1171 Scott Fields
+West Chelseaberg, NY 84555",1,full,female,0,0,0,Marc Snyder,2,[],[]
+28,"461 Monica Locks
+Angelaborough, SD 71383",1,respite,male,1,0,0,Eric Richmond,1,[],[]
+29,"588 Lindsey Mews Suite 205
+New Vanessa, MI 39351",1,respite,male,0,0,0,Peter Reed,1,[],['dog']
+30,"4745 Amber Knolls Apt. 900
+Nicholsside, VT 71647",1,full,ftm,0,0,1,Joseph Vargas,1,[],[]
+31,"56527 Daniel Turnpike
+Lake Ronaldland, OK 81412",1,full,female,1,0,0,Jennifer Ramos,1,[],[]
+32,"4305 Carl Light
+Karenside, FL 14591",0,respite,female,1,0,0,Joseph Becker,1,[],[]
+33,"1988 Corey Key
+Derekfort, TX 53240",1,full,female,0,0,1,Stephen Lester,1,[],"['other', 'cat']"
+34,"58163 Cooper Spurs
+Jaredmouth, CO 19784",1,full,nb,0,0,0,Ryan Graham,1,[],['other']
+35,"144 William Unions
+Atkinsonview, SD 30443",1,full,male,0,0,0,Kyle Jones,2,[],[]
+36,"540 Sherry Park
+Lisaview, OK 26863",1,full,female,0,0,0,William Phillips,1,[],[]
+37,"72990 Price Divide Suite 158
+Davidport, AZ 33685",1,full,male,0,0,0,Kimberly Rios,2,['bird'],[]
+38,"9199 Tiffany Valley Suite 811
+South Heatherchester, AK 90836",1,respite,male,1,1,1,Joseph Palmer,1,[],[]
+39,"09066 Heather Spurs Suite 133
+Rollinsfort, SC 06331",0,full,female,0,1,0,Steven Schmidt,1,[],['other']
+40,"2105 Michael Isle
+West Angelahaven, AZ 01941",0,respite,female,1,0,1,Joseph Odonnell,2,['dog'],[]
+41,"9647 Lindsey Forest
+Cheryltown, UT 86793",1,full,male,0,1,0,Catherine Jones,1,[],[]
+42,"556 Victoria Creek Apt. 107
+West Zacharyfurt, MN 76093",1,respite,male,0,0,1,Diana Horton,1,[],[]
+43,"93589 Matthew Orchard
+East Sherry, AZ 74521",1,full,mtf,0,0,0,Ronald Long,1,[],[]
+44,"3152 Thompson Village
+Crossberg, OK 27980",0,full,male,0,1,0,Angela Houston,2,[],[]
+45,"2792 Murphy Crossing
+Robinsonfort, NH 38872",0,full,male,0,0,0,James Cisneros,1,[],[]
+46,"80252 Shawn Stream Apt. 700
+East Desiree, VT 38211",1,respite,male,1,0,0,Richard Shaw,1,[],[]
+47,"Unit 1210 Box 3496
+DPO AA 50432",0,respite,male,1,0,0,Christina Johnson MD,1,[],[]
+48,"4395 Preston Drive Suite 134
+South Kimberlyville, NV 09526",0,full,male,0,0,0,Robert Williams,3,[],[]
+49,"3736 Mccoy Club Suite 101
+Woodsview, NY 96119",1,respite,female,1,1,0,Shawn Butler,1,[],[]
+50,"81052 Kathy Expressway
+Blacktown, IA 80088",1,full,mtf,1,0,1,Sharon Curtis,1,['cat'],[]
+51,"6519 Kimberly Crest Apt. 678
+Lake Michelehaven, TX 58366",1,full,male,0,1,0,David Gaines,1,[],[]
+52,"031 Brittany Harbor Apt. 389
+Joshuamouth, WV 69140",0,full,male,1,0,1,Megan Aguilar MD,1,[],[]
+53,"5206 Ryan Port Apt. 021
+Noahshire, MN 28155",1,full,male,1,0,0,Ryan Espinoza,4,[],[]
+54,"Unit 6053 Box 0595
+DPO AA 36253",0,full,female,1,0,0,Lori Miller,1,"['cat', 'reptile']",['cat']
+55,"6804 Erik Junction Suite 396
+North Edwardhaven, OR 84232",1,full,male,0,0,0,Cody Hodges,3,[],[]
+56,"389 Leonard Burg Suite 010
+Jasonfurt, OR 05236",1,respite,nb,0,0,0,Savannah Logan,1,[],[]
+57,"10090 Lynn Trace
+West Matthew, MS 20576",1,full,male,0,0,1,Morgan Blake,1,[],[]
+58,"706 Jane Cliffs Apt. 469
+New Samuel, PA 62786",1,respite,female,1,0,1,Casey Gamble,1,[],[]
+59,"369 Wilson Dale
+Lake Jasonchester, MT 21501",0,full,nb,0,0,0,Kathleen Case,1,[],[]
+60,"53918 Michael Isle Suite 172
+West Robert, LA 66462",1,full,female,0,0,0,Julie Phillips,1,[],[]
+61,"48964 Lowe Lock
+Davidville, NM 95025",0,full,nb,0,0,0,Alex Hudson,1,[],[]
+62,"9666 Mary Locks
+Ronaldside, WV 63567",1,full,male,1,0,0,John Williams,1,[],[]
+63,"946 Angela Mills
+Willisburgh, ND 87155",1,full,mtf,0,0,1,Michaela Ellison,1,[],[]
+64,"44928 Shirley Trafficway
+South Roberto, CO 51692",1,full,female,1,0,1,Jessica King,2,[],[]
+65,"7099 Kylie Trail Apt. 589
+North Christopher, MI 18225",1,full,male,0,1,1,Evelyn Cooper,1,[],['cat']
+66,"15548 Natalie Coves Apt. 380
+West Jennifer, IA 97040",1,full,male,1,0,1,Michael Shields,1,[],['other']
+67,"07407 Arthur Crossroad
+East Tinaburgh, PA 72118",1,respite,female,0,1,0,Dwayne Tanner,1,['other'],[]
+68,"437 Trujillo Villages Apt. 203
+East Bonnieton, IA 27716",1,full,female,0,1,1,Roger Carr,1,[],[]
+69,"0731 Curtis Lodge Suite 618
+West Sarah, AL 64095",1,respite,female,0,0,0,Veronica Bates,1,[],['cat']
+70,"0123 Jason Ford Suite 107
+Edwardsstad, ME 88835",1,full,male,0,1,0,Mrs. Christy Acosta,1,[],[]
+71,"4707 Jacobs Coves
+Port Dannyville, TX 55509",1,respite,female,0,0,0,Douglas Burke,1,['fish'],[]
+72,"465 Margaret Roads
+New Virginia, IA 53320",1,full,female,0,0,0,Sarah Wright,1,"['bird', 'fish']",[]
+73,"821 Diana Ridges Suite 247
+North Lynnchester, NM 75448",1,full,male,0,0,0,Gary Hendrix,1,[],[]
+74,"USNS Thomas
+FPO AA 85356",1,respite,male,0,1,0,Kenneth Pierce,2,[],[]
+75,"4202 John Square
+Jenniferport, HI 17985",1,full,male,1,0,0,Melissa Taylor,1,[],[]
+76,"12530 Brian Spring Apt. 284
+Lake Aliciamouth, MO 03985",1,respite,male,0,0,0,Michael Bishop,1,[],['cat']
+77,"785 Alexandria Key
+Port Nicholasshire, IA 06103",0,full,male,0,0,1,Sophia Wright,1,['cat'],['dog']
+78,"55223 Bates Burgs Apt. 877
+Victoriahaven, DC 25998",1,full,male,0,0,0,Alfred Johnson,3,[],[]
+79,"002 Kimberly Inlet Apt. 964
+Lake Lee, SC 48480",1,full,male,0,0,1,Emily Hernandez,1,[],[]
+80,"2733 Gutierrez Fields Apt. 117
+Cookeburgh, ND 72573",0,full,male,1,0,0,David Lowe,2,[],[]
+81,"68550 Hernandez Forest
+Morseside, NE 11621",1,full,female,0,0,1,Roy Wright,1,[],[]
+82,"942 Ford Coves Apt. 142
+Port Rebeccachester, AR 10874",1,full,mtf,0,0,1,Steven Wright,2,[],[]
+83,"40142 Charlene Overpass
+East Lauren, KY 89738",1,full,female,1,0,1,Erika Braun,1,"['fish', 'cat']",[]
+84,"96337 Nelson Branch
+Petersonburgh, WV 81852",1,full,ftm,1,1,0,Kayla Powell,1,[],[]
+85,"38295 Christine Isle
+Marieville, TN 44387",1,full,female,0,0,1,Anthony Williams,1,['fish'],[]
+86,"3850 West Vista
+West Brian, OH 91981",1,full,female,0,0,0,Victoria Lawrence,1,"['dog', 'fish', 'reptile']",[]
+87,"95214 Chad Route Suite 359
+Soniafurt, ID 99673",0,full,male,1,0,1,Nicholas Mclaughlin,1,[],[]
+88,"53060 Erin Parks Suite 253
+West Scottshire, WA 19864",1,full,female,0,0,0,Steven Richardson,3,[],[]
+89,"52568 Hill Road
+South Cole, FL 17974",1,full,female,1,0,0,Ian Bradford,1,[],[]
+90,"362 Brenda Stream Apt. 933
+Leechester, OK 43193",1,full,ftm,0,0,0,Joseph Parker,1,['fish'],[]
+91,"97967 Robinson Vista Apt. 656
+Robertsmouth, SC 46878",1,full,female,0,1,0,Elizabeth Chang,2,['fish'],[]
+92,"102 Torres Rest Apt. 108
+Turnermouth, NC 08551",1,full,nb,1,0,0,Kelly Hendrix,1,['cat'],[]
+93,"664 Brandon Manors
+Robertside, AL 44883",1,full,mtf,0,0,0,Albert Singleton,1,['cat'],[]
+94,"23881 Gregory Square Apt. 577
+Markhaven, LA 08188",1,full,male,0,1,0,Jacqueline Baker,1,[],[]
+95,"0880 Allison Turnpike
+Perrybury, MD 61034",1,full,male,0,0,1,Tracy Diaz,3,[],[]
+96,"24295 Daniel Mountains
+Katherineport, OK 11920",1,respite,mtf,1,0,0,Sean Edwards,1,[],[]
+97,"220 Nicholas Stravenue
+Bridgeschester, WY 32169",1,full,male,0,0,0,Suzanne Jones,1,['bird'],['other']
+98,"252 Chavez Summit
+Hollandville, TN 72677",1,full,female,0,0,0,Jeffrey Jones,1,[],[]
+99,"5974 Ann Islands Suite 041
+Douglaston, SC 38501",1,respite,male,0,0,0,Chris Roberson,1,[],[]
+100,"6077 Clark Burgs
+Kyleside, KY 70709",0,full,male,1,0,1,Stephanie Brady,1,['other'],[]
+101,"17419 Shaw Ports
+Suetown, NJ 40668",1,respite,male,1,0,0,John Ward,1,[],[]
+102,"694 Corey Run Apt. 258
+Flemingville, WI 83217",0,full,male,0,1,0,Angela Carter,2,['cat'],['dog']
+103,"6823 Joseph Track
+Andrewport, AK 58343",1,full,female,0,0,0,Mary Ramsey,2,[],[]
+104,"07099 Carr Common Apt. 698
+Lake Matthew, AL 34214",1,full,female,0,0,1,Timothy House,1,[],[]
+105,"2677 Brandon Fall Apt. 370
+Jonesfort, IN 54081",0,full,mtf,1,1,1,Diana Mueller,3,[],[]
+106,"893 Victoria Unions Apt. 032
+East Ashley, ID 73314",1,full,female,0,0,0,Tammy Martin,3,[],[]
+107,"1655 James Plains
+Matthewstad, TN 24944",1,full,ftm,0,0,1,Sandra Welch,1,[],[]
+108,"1564 Taylor Groves Apt. 745
+North Michelle, KS 90714",1,full,male,1,0,0,Mark Sweeney,4,['other'],[]
+109,"08782 Reyes Parkways
+Philipmouth, OR 69559",1,full,male,1,0,1,Timothy Miller,1,[],[]
+110,"061 Jennifer Union Apt. 730
+North Brandonland, AZ 89405",1,full,female,1,0,0,Carrie James,1,[],[]
+111,"18349 Jimenez Summit Suite 091
+Port Leon, CO 73304",1,full,female,0,0,1,Paula Ibarra,1,['dog'],[]
+112,"113 Ashley Centers
+Leslieshire, SC 36815",1,full,male,1,0,0,Melissa Smith,1,[],['other']
+113,"783 Smith Drive Apt. 771
+Joshuaton, CT 26229",1,full,male,0,0,0,Cheryl Cooke,2,[],[]
+114,"304 Paula Mission
+Johnsonshire, CT 87104",0,full,male,0,0,0,John Cline,1,[],[]
+115,"756 Cunningham Plains
+West Jacquelineside, SD 08037",1,full,male,0,0,1,Jeffrey Hicks,2,[],['cat']
+116,"7920 Smith Summit
+Alexanderton, KY 49161",1,full,male,1,1,1,Tim Turner,2,[],['dog']
+117,"833 Boyd Mountain
+Ericahaven, RI 17983",1,full,female,0,0,0,Ashley Thompson,1,['cat'],[]
+118,"2173 Weber Lock
+Hannahfort, SD 55767",1,full,female,1,1,0,Jake Brown,1,['reptile'],['dog']
+119,"2581 John Centers
+Port Vanessa, AK 11522",1,full,male,0,0,1,Elizabeth Diaz,1,"['reptile', 'bird']",[]
+120,"USS Gonzales
+FPO AP 11381",1,respite,ftm,0,0,0,Douglas Lopez,1,[],['cat']
+121,"77775 Zachary Inlet
+East Garyfurt, NH 73657",1,full,female,0,0,0,Dylan Walker,1,[],[]
+122,"10180 Martin Light Apt. 597
+East Jeremystad, FL 16703",0,respite,female,0,0,1,David Tran,1,[],[]
+123,"73833 May Way Suite 627
+Sheilaside, CT 41714",1,full,male,1,0,0,Penny Hobbs,1,"['other', 'reptile']",[]
+124,"562 Johnson Place Suite 713
+Port Blake, DE 91171",1,full,female,0,1,1,Michelle Silva,2,[],[]
+125,"572 Caldwell Forks Suite 161
+Christopherburgh, NJ 92944",0,full,female,1,0,0,Karen Jenkins,1,[],[]
+126,"19973 Logan Stravenue
+South Lisaview, IN 48831",0,full,male,1,0,0,Angel Scott,1,[],[]
+127,"1734 Susan Expressway
+Angelaburgh, AR 40368",0,full,male,0,0,0,Alexis Short,3,[],[]
+128,"440 Jason Garden
+Lake Christianmouth, VA 38768",1,full,female,0,1,0,John Simon,1,[],[]
+129,"82489 Robinson Trafficway Apt. 779
+West Thomasberg, NC 36561",1,full,male,0,1,0,Michelle Long,1,[],[]
+130,"PSC 8108, Box 7604
+APO AE 21727",1,full,female,0,0,1,John Garza,2,[],[]
+131,"1949 Johnson Club Apt. 305
+Port Elaineberg, WI 76659",1,full,male,0,0,1,Robert Walker,1,[],"['cat', 'dog']"
+132,"2752 Yolanda Bypass
+Dicksonborough, MS 14719",0,full,male,0,0,0,Dominique Hunter,1,[],[]
+133,"1190 Martin Mountain Suite 782
+South Eileentown, CA 67699",1,respite,mtf,0,0,0,Charlotte Tucker,1,"['fish', 'bird']",[]
+134,"Unit 4368 Box 8907
+DPO AP 20630",1,full,female,0,0,0,Donna Ponce,1,[],[]
+135,"296 Jackson Oval Apt. 926
+Danielschester, VA 91528",0,full,female,1,1,0,Sean Thornton,2,[],[]
+136,"6221 Matthew Mall
+Brittanymouth, AR 54356",1,respite,male,0,0,0,Ruth Marquez,1,"['cat', 'reptile']",[]
+137,"1584 Corey Via Suite 940
+West Lisashire, AZ 41598",1,full,female,0,0,0,Jamie Cox,1,[],[]
+138,"1110 James Groves Apt. 248
+Hahnhaven, OR 14173",1,full,male,0,0,0,John Anderson,1,[],['cat']
+139,"0168 Farmer Fields Suite 713
+Danielhaven, VA 62780",1,full,male,0,0,0,Alice Sanchez,1,[],[]
+140,"2673 Michelle Freeway Suite 980
+Thomasberg, WY 63542",1,full,female,1,0,0,Kristin Hill,1,[],[]
+141,"70956 Brown Point
+East Christopher, NC 30993",1,full,male,0,0,0,Devin Valenzuela,1,[],[]
+142,"48332 Emma Extension
+Rosestad, NJ 89796",1,full,male,0,0,0,Amber Park,1,[],[]
+143,"484 Tina Dam
+Booneborough, HI 59559",0,full,male,0,0,1,Daniel Webb,1,[],[]
+144,"70626 Kelly Mission
+Quinnland, NJ 03988",1,respite,female,1,0,1,Jennifer Woods,1,[],[]
+145,"76824 Daniel Divide
+Port Laurentown, KS 30132",1,full,female,0,0,0,Mary Allen,1,[],[]
+146,"5859 Phillip Keys Suite 754
+Jonesmouth, TX 11602",1,full,female,0,0,0,Kelli Bradford MD,1,['cat'],[]
+147,"Unit 7262 Box 1672
+DPO AA 94810",0,full,female,0,0,1,Christine Fry,2,[],[]
+148,"569 Michelle Turnpike Suite 542
+East Anthonyside, AL 18537",1,full,male,0,0,0,Emily Lopez,1,[],[]
+149,"71198 Jessica Summit
+Jensenborough, UT 20745",1,full,female,0,0,0,Scott West,1,[],[]
+150,"1987 Arnold Ways
+South Christopher, SD 31079",1,full,male,1,0,0,Michelle Haley,2,[],[]
+151,"3045 Nathan Islands Suite 632
+West Stevenmouth, OR 91349",1,respite,male,0,0,1,Sean Munoz,1,[],[]
+152,"354 Conley Cape
+Lake Melissa, ND 66227",1,full,male,0,1,1,Thomas Bennett,2,['dog'],['cat']
+153,"478 Brown Locks
+New Victoria, SD 54711",1,respite,male,1,0,0,Rodney Brown,1,[],[]
+154,"02512 Jones Creek Suite 643
+East Darlenechester, NJ 62946",1,full,female,0,0,1,Cassandra Brown,3,[],[]
+155,"676 Amber Course
+Rodriguezberg, DC 78379",0,full,male,0,0,0,Dr. Sara Williams,2,"['dog', 'other', 'fish', 'reptile', 'bird']",[]
+156,"Unit 4589 Box 3536
+DPO AE 65295",1,full,male,0,0,1,Charles Russo,1,[],[]
+157,"39172 Travis Springs Suite 969
+North Victoria, NC 79789",1,full,male,0,0,1,Olivia Williams,1,['other'],[]
+158,"13764 West Centers
+Sarahberg, NE 18954",0,full,female,0,1,0,Mr. Matthew Quinn,1,[],[]
+159,"997 Scott Ports Suite 812
+North Cassidy, AR 83637",1,full,female,1,1,0,Julie Maldonado,1,"['cat', 'other']",[]
+160,"Unit 7926 Box 6961
+DPO AA 06029",1,full,female,0,1,1,Anthony Johnson,2,[],[]
+161,"174 Anna Station
+South Kimhaven, GA 78965",0,full,male,0,0,0,Donald Wilson,1,[],[]
+162,"USNV Thomas
+FPO AA 51197",1,respite,mtf,0,0,0,Ryan Alexander,1,[],[]
+163,"7954 Anderson Oval
+Pattersonside, ID 86305",0,full,female,0,0,0,Eddie Thompson,1,[],[]
+164,"7476 Williams Mission Suite 008
+Davismouth, FL 98631",1,full,female,0,0,0,Lawrence Drake,1,[],['dog']
+165,"56685 Nguyen Land
+Darleneton, NV 25324",0,full,female,0,0,0,Mark Moore,2,[],['cat']
+166,"65716 Hill Vista
+West Valerieville, LA 07779",1,full,male,0,1,0,Edward Oneal,1,[],[]
+167,"947 Shawn Lock Suite 290
+Clarkbury, TN 13591",1,full,male,0,0,1,Charles Nguyen,1,[],[]
+168,"5912 Hines Cliffs Apt. 597
+Brandonberg, ND 45245",1,full,nb,1,1,0,Jennifer Stokes,1,[],[]
+169,"26391 Todd Plains
+Maldonadoside, MI 84191",0,full,female,0,0,0,Kenneth Carpenter,1,[],[]
+170,"Unit 4516 Box 4952
+DPO AA 09283",1,respite,male,0,0,0,Jared Allen,1,[],[]
+171,"56685 Melissa Well Suite 755
+Lake Adam, NC 92346",1,full,female,0,1,0,Sarah Frank,2,[],['cat']
+172,"061 Romero Shoals Suite 206
+Johnsmouth, OR 40996",0,full,female,0,0,1,Robert Li,1,[],[]
+173,"6545 Levi Spur Suite 002
+Stephensfort, KS 38188",1,full,male,1,0,0,Melissa Salinas,2,[],[]
+174,"185 Taylor Fords
+Port Jasmintown, ND 20092",1,full,female,0,0,0,Monica Coleman,1,['dog'],['other']
+175,"8328 Ramsey Port
+Vargasside, AL 84794",1,full,female,0,0,0,Christopher Norris,1,"['bird', 'other', 'cat']",['other']
+176,"8301 Elizabeth Parkways
+South Nicolasmouth, HI 01243",1,respite,male,0,0,0,Brenda Ward MD,1,[],[]
+177,"Unit 4714 Box 7308
+DPO AP 91432",1,full,ftm,0,1,0,Michael Kirby,1,[],[]
+178,"99621 Amber Cliffs
+Stevenbury, AR 83904",1,full,female,0,0,0,Sharon Thomas,1,[],[]
+179,"5553 Angela Ramp
+West Christopher, AR 51443",1,respite,female,0,0,0,Michael Miller,1,[],[]
+180,"10895 Edward Junction
+Jacquelinemouth, VA 12055",1,full,female,0,1,0,Susan Wilcox,1,"['fish', 'other']",[]
+181,"1652 Moore Land
+Port Brandi, ID 24468",1,full,male,1,0,1,Sarah Ramsey,1,[],[]
+182,"392 Joseph Flat Apt. 119
+Russoland, WI 10865",1,full,female,1,0,1,Jennifer Meyers,1,[],[]
+183,"10744 Ricky Burg
+New Christy, NJ 57843",1,full,female,0,0,0,Duane Morrison MD,1,[],[]
+184,"84046 Evans Corners
+South Michaelfort, NJ 62782",1,full,female,0,0,1,Mark Cunningham,1,[],[]
+185,"224 Russell Curve Apt. 311
+Lake Erin, RI 97763",1,respite,male,0,0,0,Henry Miranda,1,"['dog', 'bird', 'other']",[]
+186,"229 Bryan Ville Apt. 956
+Johnsonshire, WV 77160",1,full,female,0,0,1,Clarence Williams,1,[],[]
+187,"80996 Margaret Pass
+Orrchester, IL 86824",1,full,male,1,0,1,Mark Rocha,2,[],['cat']
+188,"63188 Green Overpass Apt. 418
+North Jillburgh, NH 95083",1,respite,female,1,0,0,Robert Mcgee,1,"['cat', 'reptile']",[]
+189,"184 James Harbors
+East Danachester, ME 43805",1,full,male,0,0,0,Jason Davis,1,['cat'],[]
+190,"6955 Little Village
+Lake Ernesthaven, NE 30007",0,full,female,1,0,1,Michelle Thompson,1,[],['dog']
+191,"637 John Gardens Apt. 320
+New Michael, AR 66598",1,full,mtf,1,0,0,Albert Miller,1,"['reptile', 'bird', 'fish', 'dog', 'cat']",[]
+192,"6237 Edwin Isle Suite 439
+Port Daniel, LA 54713",1,full,male,0,0,0,Dylan Gamble,1,[],[]
+193,"533 Jensen Manor
+Port Courtney, VA 69701",1,full,male,0,0,1,Michele Schroeder,1,"['other', 'cat']",['cat']
+194,"PSC 1011, Box 1285
+APO AA 53851",1,respite,female,0,0,0,Joseph Clark,1,"['bird', 'cat']",['cat']
+195,"000 Nichole Shoal
+South Dakotaside, NE 70728",1,full,male,0,0,0,Mary Foster,1,[],[]
+196,"8289 Ellis Lodge
+Zacharyfort, DC 92761",1,full,male,1,0,0,Sarah Garcia,1,[],['cat']
+197,"Unit 2339 Box 1504
+DPO AP 32272",1,full,male,1,0,0,Terry Adams,1,[],[]
+198,"56508 Patrick Road
+Kristenfurt, MI 96536",1,full,female,0,0,1,Lauren Blackwell,1,['bird'],[]
+199,"03258 Susan Gardens Apt. 057
+Lewisfort, WI 17755",1,respite,female,1,0,1,Joseph Howard,1,[],[]

@@ -1,0 +1,201 @@
+ID,address,alcohol_use,allowed_pets,gender,guest_in_relationship,guest_is_parent,host_type,indoor_smoking,mail,name,number_of_guests,pets
+0,"188 Campos Hollow
+West Brian, TX 38669",0,[],female,0,1,respite,0,tarabuck@gmail.com,Drew Peterson,2,"['bird', 'dog']"
+1,"8591 Lowe Brook Suite 988
+South Jenniferborough, IL 76427",1,[],male,0,0,full,0,jonathanwood@yahoo.com,Cindy Fischer,3,"['reptile', 'fish']"
+2,"365 Flores Court
+East Andrew, AK 72047",0,[],female,0,0,full,0,brettjones@hotmail.com,Matthew Williams,1,"['fish', 'other']"
+3,"47047 Martinez Bypass
+Port Williamhaven, DE 00885",1,[],female,1,0,respite,0,kevin64@gmail.com,Victoria Thomas,1,[]
+4,"377 Cole Mount
+Theresaburgh, MD 31976",1,[],male,1,1,respite,0,kristinwilliams@yahoo.com,Diane Roberts,2,['fish']
+5,"USNV Cameron
+FPO AP 55443",0,['dog'],male,0,0,respite,0,amanda40@hotmail.com,Courtney Gordon,1,[]
+6,"PSC 7436, Box 6644
+APO AE 74006",0,['reptile'],male,0,1,respite,0,jessemartinez@yahoo.com,Shannon Anderson,5,[]
+7,"55746 Klein Meadows Suite 362
+Duranside, MD 44301",1,"['other', 'fish']",male,0,0,full,0,nevans@yahoo.com,Elizabeth Turner,2,"['fish', 'bird']"
+8,"USNS Wilson
+FPO AE 65272",0,[],female,0,0,full,0,erintaylor@yahoo.com,Brandon Gonzalez,1,['bird']
+9,"68620 Allen Walk
+Lake Jenniferstad, VA 02365",1,[],female,0,0,respite,0,fisheralan@yahoo.com,Jennifer Lowe,4,"['reptile', 'dog', 'bird']"
+10,"1930 Shawna Junctions Apt. 896
+Ortegaside, MO 10113",0,[],male,0,0,full,1,dpace@gmail.com,Andrew Chapman,4,[]
+11,"1352 Williams Fords
+Amandamouth, MA 35250",0,[],female,0,0,full,0,hugheschristopher@yahoo.com,Madison Mason,1,['cat']
+12,"1630 Freeman Ford Suite 908
+North Erinhaven, LA 73991",0,[],female,1,0,full,0,melissamorris@hotmail.com,Thomas Johnson,4,['cat']
+13,"722 Joshua Squares Suite 653
+Browntown, KS 95312",0,['cat'],female,0,0,respite,0,mbeasley@yahoo.com,Tyler Green,4,"['other', 'bird', 'dog', 'reptile']"
+14,"13475 Douglas Summit Suite 192
+Roseburgh, CT 17950",1,[],male,0,0,full,0,sfrederick@hotmail.com,Patricia Bailey,1,[]
+15,"13304 Williamson Mill
+North Kayla, WV 76113",1,[],male,1,0,full,0,annareynolds@yahoo.com,Robert Henderson,11,['bird']
+16,"8673 John Extensions
+East Jamesshire, TX 74981",1,[],male,1,0,respite,0,ccase@hotmail.com,Antonio Coleman,2,[]
+17,"77009 Carpenter Terrace Apt. 856
+Rodneyhaven, KS 95608",1,[],male,1,0,full,0,nicole40@hotmail.com,Carolyn Thornton,8,[]
+18,"USCGC Molina
+FPO AA 20113",0,[],male,0,0,full,0,travis63@yahoo.com,Adam Wilkins,4,['dog']
+19,"8014 Kelsey Via Apt. 267
+Lake Jacob, VA 28722",0,[],female,0,0,full,0,stacey43@hotmail.com,Jacob Green,2,['cat']
+20,"64756 Powell Junctions
+Lake Samuelland, DC 42326",1,[],female,1,0,full,0,dblevins@yahoo.com,Cynthia Brooks,8,['dog']
+21,"5488 Tamara Lake Suite 931
+Port Jennifer, NV 12382",1,[],male,0,0,full,0,cwilliamson@hotmail.com,William Murphy,2,"['cat', 'other', 'dog']"
+22,"797 Cunningham Islands
+Smithfort, IN 21693",1,[],female,1,0,full,0,fischerkristina@gmail.com,Cynthia King,5,[]
+23,"02729 Cooper Parks Apt. 105
+South Tiffany, CT 39275",1,['dog'],male,1,0,full,0,ymccall@yahoo.com,Omar Martin,3,"['other', 'dog', 'bird', 'cat']"
+24,"2865 Sarah Highway
+Moorebury, WY 38406",1,[],female,0,0,full,0,jeff10@gmail.com,Jeremy Burns,1,[]
+25,"516 Stephanie Spurs Apt. 000
+Garciachester, CA 58445",1,[],female,1,0,full,0,hunter80@hotmail.com,Amanda Hahn,3,['cat']
+26,"1781 Barrett Keys Apt. 652
+New Angela, UT 81517",1,['cat'],male,1,0,full,0,erika78@hotmail.com,David Stevens,2,['other']
+27,"Unit 3476 Box 9055
+DPO AA 23558",0,[],ftm,1,0,full,0,jkim@hotmail.com,Zachary Henderson,3,"['reptile', 'other']"
+28,"USNV Miller
+FPO AA 83876",1,['fish'],male,0,0,respite,0,pbrown@yahoo.com,Tyler Gonzalez,3,['bird']
+29,"483 Daniels Mountain
+Martinton, AL 47103",1,[],male,0,0,respite,0,jay20@hotmail.com,Taylor Vargas,2,"['reptile', 'fish', 'dog']"
+30,"6022 Wesley Bypass Suite 795
+Port Bradleymouth, KY 84147",0,[],ftm,1,0,full,0,amanda09@hotmail.com,Monica Davis,1,['cat']
+31,"400 John Club Suite 855
+South Lauren, MT 16311",1,['dog'],female,0,0,full,1,kmontgomery@hotmail.com,Carrie Sandoval,1,"['fish', 'bird', 'other']"
+32,"3115 Henderson Pike
+Ericksonport, MS 38899",1,[],male,1,0,full,0,jordan77@gmail.com,David Johnson,1,[]
+33,"8926 Daniel Turnpike Apt. 257
+West Jenniferville, IA 47371",0,[],male,0,0,respite,0,terri67@yahoo.com,Melissa Walker PhD,1,['dog']
+34,"797 Rebecca Springs
+Kimberlymouth, NJ 00813",1,[],female,1,0,respite,0,lschneider@hotmail.com,James Baird,1,[]
+35,"529 Rhonda Bridge Apt. 428
+Robertview, SC 26934",1,[],male,1,0,respite,0,colinanthony@yahoo.com,Nicole Whitehead,3,['other']
+36,"8305 William Island Suite 727
+Walkerton, NJ 12564",1,[],female,0,0,full,1,harold49@hotmail.com,Belinda Stuart,3,[]
+37,"9418 Heidi Village
+West Jennifertown, CO 91747",0,[],ftm,0,0,full,0,lharris@yahoo.com,Lori Bowers,2,['reptile']
+38,"41212 Christian Field Apt. 368
+Jacksonport, DC 21469",1,[],female,1,0,full,0,molly19@hotmail.com,Alex Henson,1,[]
+39,"75027 Roger Row Suite 057
+Lake Joseph, CT 91679",0,[],female,0,0,full,0,jdavis@hotmail.com,John Hunter,1,"['cat', 'dog']"
+40,"216 Marcus Villages
+Lake Travis, NH 18328",0,[],male,0,0,full,0,pattersonrobert@hotmail.com,Casey Woodward,1,"['dog', 'bird']"
+41,"49445 Linda Meadows
+Jacquelinefort, AK 25946",1,[],female,0,0,full,0,hwallace@gmail.com,Steven Warner,2,['reptile']
+42,"148 Morales Curve Apt. 842
+Susanstad, CA 70618",1,[],male,1,0,full,0,hallelizabeth@hotmail.com,Lee Medina,2,[]
+43,"4114 Patton Lakes Apt. 348
+North Amy, KS 48783",0,['bird'],female,1,0,respite,0,hendersonkevin@gmail.com,Howard Phelps,1,[]
+44,"070 Ashley Pines
+Seanburgh, NM 65823",0,[],female,0,0,full,0,shawn14@hotmail.com,Lisa Daugherty,3,['fish']
+45,"40610 Cynthia Run Apt. 553
+Grahambury, IN 34284",0,[],male,1,0,full,0,jaime97@gmail.com,Jacqueline Jones,3,"['reptile', 'fish', 'cat']"
+46,"13580 Jason Squares
+Finleyport, AK 13220",0,"['dog', 'other']",nb,0,0,respite,0,aprilparsons@yahoo.com,Jordan Reed,1,['reptile']
+47,"30649 Antonio Mountains Apt. 814
+Port Christopher, CO 16117",1,[],male,1,0,respite,0,vgonzalez@hotmail.com,Christina Pennington,1,"['bird', 'fish']"
+48,"8821 Charles Mountain Suite 034
+East Thomas, MI 74558",1,[],female,0,0,respite,0,kelsey41@yahoo.com,Jennifer Clay,7,"['reptile', 'bird']"
+49,"4802 Nicole Knoll
+West Ruben, NJ 54227",1,['dog'],male,1,0,full,0,lisa88@gmail.com,Casey Crawford,3,['cat']
+50,"19599 Kathleen Mall
+New Heidi, MO 13038",0,[],female,1,0,full,0,ykeith@gmail.com,James Acosta,3,"['reptile', 'cat']"
+51,"742 David Shoal Suite 852
+Port Josechester, NV 61953",1,[],female,0,0,full,1,wpatton@hotmail.com,Richard Navarro,2,[]
+52,"USNV Smith
+FPO AP 14333",0,[],female,0,0,respite,0,kellystewart@gmail.com,Melissa Ford,1,[]
+53,"779 Kurt Courts Apt. 644
+East Kellyview, OH 37468",0,[],male,1,0,respite,0,jeffrey55@gmail.com,Martin Adams,2,[]
+54,"9878 Jacobs Forks Apt. 187
+Valdezmouth, CT 32749",1,[],male,0,0,full,0,ashley34@gmail.com,David Hardy,9,"['bird', 'dog', 'fish']"
+55,"USNV Price
+FPO AP 87521",0,[],female,0,0,full,0,kstewart@gmail.com,Dana Hogan,1,[]
+56,"64296 Bradley Mountain
+Port Kenneth, FL 75539",1,[],male,1,0,full,0,jeffrey82@yahoo.com,Lauren Garcia,2,[]
+57,"USS Barnes
+FPO AA 54967",1,"['fish', 'dog']",female,0,1,full,0,stewartbrandon@gmail.com,Rhonda Strickland,1,[]
+58,"400 Reynolds Loaf Suite 054
+New Joshua, AR 54780",0,['fish'],male,0,0,full,0,roy60@hotmail.com,Kristin York,1,[]
+59,"188 Michael Cliffs Suite 190
+New Christopher, NE 07998",1,[],female,0,0,respite,0,laurahoward@hotmail.com,Katelyn Cain,4,"['reptile', 'dog']"
+60,"10181 Robert Corners
+West Brendahaven, AL 70819",1,[],male,0,0,full,0,hallthomas@yahoo.com,Aaron Martin,1,[]
+61,"13378 Brock Turnpike Apt. 470
+Stanleyton, CT 05895",0,[],male,0,0,full,0,daniel82@gmail.com,Anthony Freeman,3,[]
+62,"53151 Deleon Locks
+Gallowaystad, MN 79926",1,[],male,0,0,full,0,clarkduane@yahoo.com,Kelsey Hays,7,[]
+63,"6222 Lucas Junctions
+North Frank, WI 34163",1,[],male,1,0,full,0,dcharles@gmail.com,Gabriel Ramirez,1,[]
+64,"0399 Gibson Trafficway
+Sandovalhaven, WY 35761",0,['other'],female,0,1,full,0,ljones@gmail.com,Kimberly Boyer,4,[]
+65,"20452 Daniel Lane
+Port Michael, SC 05466",1,[],nb,0,0,full,1,kevinshaw@yahoo.com,Anthony Schmidt,1,"['reptile', 'other']"
+66,"52172 Baker Bridge Apt. 947
+New Megan, ID 91760",1,[],male,1,0,full,0,elewis@yahoo.com,Rebecca Turner,3,[]
+67,"60264 Rachel Orchard
+Masonfort, WV 23626",0,[],female,1,0,full,0,edwardscarol@yahoo.com,Stanley Austin,1,['fish']
+68,"6270 Jonathan Valley
+West Anthony, NV 97411",1,[],female,0,0,full,0,hobrent@hotmail.com,Carmen Thomas,2,"['fish', 'reptile']"
+69,"PSC 2441, Box 5988
+APO AP 34062",0,['fish'],female,0,0,full,0,phillip15@yahoo.com,Russell Mccoy,2,['reptile']
+70,"3732 Stephanie Plaza Suite 196
+Smithburgh, NV 53115",0,[],nb,0,0,full,0,calderondylan@hotmail.com,Shannon Moore,2,[]
+71,"84559 Russell Walks
+Jensenstad, CA 42267",1,"['bird', 'cat']",male,0,0,respite,0,nconley@yahoo.com,Jason Smith,1,[]
+72,"46671 Williams Canyon Apt. 308
+New Curtisfurt, WV 61603",0,[],female,0,0,full,0,andersensteven@yahoo.com,Mr. Alexander Vaughn Jr.,2,[]
+73,"35104 Sullivan Roads Apt. 185
+New Julie, KY 95918",1,[],female,0,0,full,0,kelleralexander@yahoo.com,Daniel Clark,1,['fish']
+74,"50490 Stanton Well Suite 356
+Burnsville, NH 40734",1,[],male,0,0,full,0,rodneyclark@hotmail.com,Casey Rivera,3,"['reptile', 'other', 'cat', 'dog', 'fish']"
+75,"7515 Laura Isle Apt. 472
+Kennethport, MT 53239",0,[],male,0,0,respite,0,nelsongregory@yahoo.com,Tammy Mcbride,2,"['cat', 'fish', 'other']"
+76,"PSC 9358, Box 8718
+APO AE 26890",1,[],female,0,0,full,0,robertfrank@hotmail.com,Joanne Armstrong,2,[]
+77,"642 Harrell Walk
+Lake Kelseymouth, SC 13042",0,[],male,1,0,full,0,timothyholland@yahoo.com,Seth Wilson,1,[]
+78,"2570 Pena Walk Suite 370
+Ralphport, NJ 68613",1,[],male,0,0,full,0,spencerbutler@yahoo.com,Timothy King,1,[]
+79,"90164 Nicholas Wall Suite 723
+West Aaron, ME 27799",1,['cat'],nb,1,0,respite,0,smithanthony@gmail.com,Kyle Sweeney,3,[]
+80,"161 Jorge Meadows
+Alexandershire, ID 10238",0,['cat'],female,0,0,respite,0,cjames@hotmail.com,Michael Ortiz,5,[]
+81,"910 Costa Skyway Apt. 273
+Stronghaven, VT 78395",1,[],female,1,0,full,0,lgill@gmail.com,Keith Rivas,2,['fish']
+82,"4095 Patricia Roads
+Guzmanstad, KY 02866",1,[],female,0,0,full,0,rwilliams@hotmail.com,Donald Simmons,1,[]
+83,"93354 Davis Well
+South Aarontown, GA 45435",0,[],female,1,0,full,0,james76@hotmail.com,Jason Adams,1,['bird']
+84,"5048 Myers Fort
+Matthewhaven, ME 86784",1,[],female,0,0,full,0,glewis@hotmail.com,Robert Wilkins,2,['fish']
+85,"53156 Williams Loaf
+Lake Michaelbury, TN 52420",1,[],ftm,0,0,full,0,derek91@yahoo.com,Christopher Martin,2,[]
+86,"09877 Snyder Brooks
+West Jose, NH 44078",1,['other'],female,0,0,full,0,emilyharper@hotmail.com,Krystal Allen,4,"['bird', 'cat', 'fish', 'dog', 'reptile']"
+87,"68541 Joshua Viaduct
+West Charlesbury, MS 46581",1,[],female,0,1,respite,0,thompsontonya@hotmail.com,Diana Burke,1,['other']
+88,"347 Mueller Brooks
+Lake Michaelbury, NM 72705",1,[],male,1,0,full,0,meganshaffer@gmail.com,Alice Carroll,3,[]
+89,"5447 Kelly Hills Suite 778
+Port Michaelstad, VT 35136",1,[],female,0,0,full,0,rachel90@hotmail.com,Isaac Combs,4,[]
+90,"928 Jennifer Roads
+South Randy, DE 97120",1,[],female,0,0,full,0,maria59@gmail.com,Elizabeth Brown,3,[]
+91,"42907 Joseph Unions
+Myersland, HI 69113",0,[],male,0,0,full,0,dphillips@gmail.com,Jeff Cox,4,['other']
+92,"24400 Sophia Points Suite 154
+Andrewsside, MD 49872",0,['reptile'],female,0,0,full,0,max78@hotmail.com,Cynthia Ponce,2,['dog']
+93,"993 Gordon Ville
+South Leeborough, MS 83788",1,[],mtf,0,0,full,1,margaret38@hotmail.com,Diane Fletcher,1,[]
+94,"649 Dixon Square Suite 771
+South Cassandraland, AZ 51324",1,[],ftm,0,0,full,0,laneelizabeth@hotmail.com,Heather Marquez,1,"['other', 'bird', 'fish']"
+95,"2032 Fischer Groves Apt. 579
+Ronaldhaven, WA 07717",0,[],male,0,0,full,0,kylecastillo@yahoo.com,Frederick Rich,1,['reptile']
+96,"0090 Samuel Pine Suite 180
+Elizabethfort, ME 89557",1,[],male,0,0,full,0,samantha72@yahoo.com,Matthew Thompson,2,['fish']
+97,"957 Wendy Track
+Dianamouth, AL 52003",1,[],female,0,0,respite,0,cookjennifer@hotmail.com,Andre Lee,1,[]
+98,"278 Jessica Port
+Antonioport, MA 79905",1,[],male,0,0,full,0,jeffreyfisher@gmail.com,William Wilson,1,"['other', 'reptile']"
+99,"13124 Jennifer Pine Apt. 820
+Hansonland, MD 09852",1,[],ftm,1,0,full,0,whernandez@gmail.com,Dr. Mark Fowler,2,"['dog', 'fish', 'cat', 'other']"

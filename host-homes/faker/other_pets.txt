@@ -1,0 +1,65 @@
+pet
+tarantula
+scorpion
+whip spiders
+camel spider
+vinegaroons
+coatimundi
+African bullfrog
+Argentine horned frogs
+fire-bellied toads
+hedgehog
+butterfly
+cricket
+giant prickly stick insect
+giant katydid
+grasshopper
+Hercules beetle
+leaf insect
+Madagascar hissing cockroach
+moths
+praying mantis
+tree weta
+Kinkajou
+wallaby
+wallaroo
+possum
+sugar glider
+millipede
+wolf-dog hybrid
+fennec fox
+red fox
+raccoon dog
+Asian leopard cat
+Bengal cat
+caracal
+serval
+savannah cat
+squirrel monkey
+capuchins
+raccoon
+falcon
+hawk
+eagles
+caracara
+owls
+capybara
+chinchilla
+fancy rat
+gerbil
+dormouse
+guinea pig
+hamster
+mouse
+squirrel
+axolotl
+tiger salamander
+skunk
+Ball Python
+Greek tortoise
+Russian tortoise
+painted turtle
+genet
+civet
+binturongs
+zebra

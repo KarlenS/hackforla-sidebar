@@ -5,17 +5,51 @@ from ast import literal_eval
 import time
 import json
 
+import matplotlib.pyplot as plt
+
 guest_host_field_assoc = {
     'number_of_guests':'hosting_amount',
     'guests_relationship':'youth_relationship',
     'parenting_guest':'youth_parenting',
-    'pets_list':'pet_restrictions',
+    'pets_have':'pets_hosting',
     'host_pet_restrictions':'pets_list',
     'duration_of_stay':'duration_of_stay',
     'smoking_household_acceptable':'smoking_allowed',
     'drinking_household_acceptable':'drinking_residents',
     'substances_household_acceptable':'substances_residents'
 }
+
+
+def count_matches(filename = 'matches.json',
+                  dynamic_bins = True,
+                  plot = True):
+
+    data = read_json_file(filename)
+
+    guest_counts = {}
+    host_counts = {}
+
+    for entry in data:
+        if entry['guestId'] not in guest_counts.keys():
+            guest_counts[entry['guestId']] = 0
+        if entry['hostId'] not in host_counts.keys():
+            host_counts[entry['hostId']] = 0
+
+
+        if not entry['restrictionsFailed']:
+            guest_counts[entry['guestId']] = guest_counts[entry['guestId']] + 1
+            host_counts[entry['hostId']] = host_counts[entry['hostId']] + 1
+
+    if dynamic_bins:
+        plt.hist(guest_counts.values(),bins=2*max(guest_counts.values()))
+    else:
+        plt.hist(guest_counts.values(),bins=10)
+
+    plt.xlabel('# of matched hosts')
+    plt.ylabel('# of guests')
+    plt.show()
+
+    return guest_counts,host_counts
 
 def read_file(filename, converters = None):
 
@@ -86,14 +120,16 @@ def filter_pair(guest, host):
     this could be sooo much better
     '''
 
-    categorical_match = [('pets_list',True,False),
-                         ('host_pet_restrictions',False,True),
-                         ('duration_of_stay',False,False)]
+    # categorical_match = [('pets_list',True,False),
+    #                      ('host_pet_restrictions',False,True),
+    #                      ('duration_of_stay',False,False)]
+    categorical_match = [('duration_of_stay',False,False)]
 
     cont_match = [('number_of_guests',operator.gt)]
 
     bool_match = [('guests_relationship',True),
                   ('parenting_guest',True),
+                  ('pets_have',True),
                   ('smoking_household_acceptable',False),
                   ('drinking_household_acceptable',False),
                   ('substances_household_acceptable',False)]
@@ -216,14 +252,14 @@ def main():
     #guests = read_file('../fakeguests.csv',
     #                  converters = {"pets": literal_eval,
     #                                "pets_not_ok":literal_eval})
-    hosts = read_json_file('../fakehosts.txt')
-    guests = read_json_file('../fakeguests.txt')
+    hosts = read_json_file('../fakehosts21.json')
+    guests = read_json_file('../fakeguests101.json')
 
     tstart = time.time()
     matches = filter_hosts(guests, hosts)
     print(f'filter took {time.time()-tstart:.3f}s')
 
-    with open('matches.txt','w') as ofile:
+    with open('matches_0118.json','w') as ofile:
         json.dump(matches,ofile,indent=1)
 
 

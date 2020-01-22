@@ -114,8 +114,8 @@ class Provider(BaseProvider):
                                    sample(n=int(n_draws)).pet.values))
 
     def employed(self):
-        fsmoking = 0.65
-        return ('employed', bool(np.random.binomial(n=1,p=fsmoking)))
+        femployed = 0.65
+        return ('employed', bool(np.random.binomial(n=1,p=femployed)))
 
     def employment_info(self):
 
@@ -127,8 +127,8 @@ class Provider(BaseProvider):
         return ('employment_info',f'{job}, {company}, {start_date} to present')
 
     def in_school(self):
-        fsmoking = 0.40
-        return ('in_school', bool(np.random.binomial(n=1,p=fsmoking)))
+        fschool = 0.40
+        return ('in_school', bool(np.random.binomial(n=1,p=fschool)))
 
     def school_info(self):
         return ('school_info', Provider.meta_faker.sentence())
@@ -232,6 +232,103 @@ class Provider(BaseProvider):
 #        frel = 0.3
 #        return ('guest_in_relationship',np.random.binomial(n=1,p=frel))
 
+def add_custom_text(full_profile):
+
+    ####pets####
+    pets_have = full_profile['pets_have']
+    host_pets = full_profile['host_pets']
+
+    if pets_have and host_pets:
+        pet_txt = "I have pet(s), and would love to live with more pets."
+    elif not pets_have and host_pets:
+        pet_txt = "I have no pets and would love to live with pets."
+    elif pets_have and not host_pets:
+        pet_txt = "My pet(s) only need new human friends."
+    elif not pets_have and not host_pets:
+        pet_txt = "I have no pets and prefer to live in a pet free place."
+    else:
+        raise ValueError('what the hell....')
+
+    ####smoking####
+    smoking_guest = full_profile['smoking_guest']
+    smoking_household_acceptable = full_profile['smoking_household_acceptable']
+
+    if smoking_guest and smoking_household_acceptable:
+        smoking_txt = "I smoke, and if permitted, I'm fine with indoor smoking."
+    elif not smoking_guest and smoking_household_acceptable:
+        smoking_txt = "I don't smoke, but I'm find with others smoking indoors."
+    elif smoking_guest and not smoking_household_acceptable:
+        smoking_txt = "I smoke cigerettes, but I prefer a smoke free "\
+                      "environment indoors."
+    elif not smoking_guest and not smoking_household_acceptable:
+        smoking_txt = "I do not smoke cigerettes, and I prefer a smoke-free "\
+                      "environment indoors."
+    else:
+        raise ValueError('what the hell....')
+
+    ####drinking####
+    drinking_guest = full_profile['drinking_guest']
+    drinking_household_acceptable =\
+            full_profile['drinking_household_acceptable']
+
+    isconcerned,reason = full_profile['drinking_concerns']
+
+    if isconcerned:
+        concern_txt = f" I have concerns about my drinking: {reason}"
+    else:
+        concern_txt = ""
+
+    if drinking_guest and drinking_household_acceptable:
+        drinking_txt = "I drink alcohol, and I'm open to other people in "\
+                       f"the household drinking alcohol.{concern_txt}"
+    elif not drinking_guest and drinking_household_acceptable:
+        drinking_txt = "I don't drink alcohol, but I'm open to other people "\
+                       f"in the household drinking alcohol.{concern_txt}"
+    elif drinking_guest and not drinking_household_acceptable:
+        drinking_txt = "I drink alcohol, but I'm not open to other people in "\
+                       f"the household drinking alcohol.{concern_txt}"
+    elif not drinking_guest and not drinking_household_acceptable:
+        drinking_txt = "I don't drink alcohol and prefer an alcohol-free "\
+                       f"environment.{concern_txt}"
+    else:
+        raise ValueError('what the hell....')
+
+    ####substances####
+
+    substances_guest = full_profile['substances_guest']
+    substances_household_acceptable = full_profile['substances_household_acceptable']
+    isconcerned,reason = full_profile['substances_concerns']
+
+    if isconcerned:
+        concern_txt = f" I have concerns about my substance use: {reason}"
+    else:
+        concern_txt = ""
+
+    if substances_guest and substances_household_acceptable:
+        substances_txt = "I use substances, and I'm open to other people "\
+                         f"in the household using substances.{concern_txt}"
+    elif not substances_guest and substances_household_acceptable:
+        substances_txt = "I don't use substances, but I'm open to other people "\
+                         f"in the household using substances.{concern_txt}"
+    elif substances_guest and not substances_household_acceptable:
+        substances_txt = "I use substances, but I'm not open to other people "\
+                         f"in the household using substances.{concern_txt}"
+    elif not substances_guest and not substances_household_acceptable:
+        substances_txt = "I don't use substances and prefer a substance-free "\
+                         f"environment.{concern_txt}"
+    else:
+        raise ValueError('what the hell....')
+
+    ##################
+
+    full_profile['pets_text'] = pet_txt
+    full_profile['drinking_text'] = drinking_txt
+    full_profile['smoking_text'] = smoking_txt
+    full_profile['substances_text'] = substances_txt
+
+    return full_profile
+
+
 
 def build_guest_profile(fake, *args):
     '''
@@ -285,8 +382,8 @@ def build_guest_profile(fake, *args):
     last_name = full_profile['last_name'] = fake.last_name()
 
 
-    full_profile['dob'] = str(fake.date_of_birth(minimum_age=21,
-                                                 maximum_age=90))
+    full_profile['dob'] = str(fake.date_of_birth(minimum_age=18,
+                                                 maximum_age=26))
 
     full_profile['gender'] = gender
 
@@ -339,6 +436,9 @@ def build_guest_profile(fake, *args):
         full_profile[field] = val
 
 
+    full_profile = add_custom_text(full_profile)
+
+
     if full_profile['mental_illness']:
         #maybe migrate below to the above class for cleaning... 
         full_profile['mental_illness_description'] = fake.sentence()
@@ -381,7 +481,7 @@ def build_guest_profile(fake, *args):
     return full_profile
 
 
-def create_data(n_guests = 200, filename='fakeguests.csv'):
+def create_data(n_guests = 100, filename='fakeguests101.json'):
 
     fake = Faker()
     fake.add_provider(Provider)
@@ -406,7 +506,7 @@ def create_data(n_guests = 200, filename='fakeguests.csv'):
         guest['attributes'] = profile
         guests.append(json.loads(json.dumps(guest)))
 
-    with open('fakeguests.txt','w') as ofile:
+    with open(filename,'w') as ofile:
         json.dump(guests,ofile,indent=1)
     #rows.append(profile)
 

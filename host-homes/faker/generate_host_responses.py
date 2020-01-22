@@ -25,9 +25,11 @@ class HostProvider(BaseProvider):
     housing_types = 5*['Single Family House']+5*['Multi-Unit']\
                     +3*['Apartment']+['Mobile Home']
 
-    pet_stats = {'dog':481572,'cat': 319229, 'bird': 35197,
-                 'fish': 141980,'reptile': 49112, 'other': 58662}
+    pet_stats = {'dogs':481572,'cats': 319229, 'birds': 35197,
+                 'fish': 141980,'reptiles': 49112, 'other': 58662}
 
+    cities = ['Beverly Hills, CA', 'Culver City, CA', 'Malibu, CA',
+              'Santa Monica, CA', 'West Hollywood, CA']
 
     meta_faker = Faker()
 
@@ -35,10 +37,14 @@ class HostProvider(BaseProvider):
         return ('gender', self.random_element(HostProvider.genders))
 
 
+    def address_short(self):
+        return ('address',self.random_element(HostProvider.cities))
+
     def languages(self):
         #this is a tough one- do significant number not speak english?
         #otherwise, what's the point here, are same-language speakers
         #a better match? if so, this is more a preference criterion.
+        #also... super inefficient - not sure why moved this down...
         languages = pd.read_csv('languages.txt', delimiter='\t',
                                names=['language','total','good','bad'])
 
@@ -213,8 +219,8 @@ class HostProvider(BaseProvider):
 
 
     def duration_of_stay(self):
-        # assuming 80/20 full/respite
-        ffull = 0.8
+        # assuming 60/20 full/respite
+        ffull = 0.6
         fboth = 0.2
         if np.random.binomial(n=1,p=fboth):
             return ('duration_of_stay', ['full','respite'])
@@ -249,6 +255,101 @@ class HostProvider(BaseProvider):
         frel = 0.3
         return ('youth_relationship',bool(np.random.binomial(n=1,p=frel)))
 
+
+def add_custom_text(full_profile):
+
+    ####pets####
+    pets_have = full_profile['pets_have']
+    pets_hosting = full_profile['pets_hosting']
+    pet_restrictions = full_profile['pet_restrictions']
+    restriction_txt = ', '.join(pet_restrictions)
+
+    if pets_have and pets_hosting:
+
+        if pet_restrictions:
+            pet_txt = "We have a pet and we'd love to host yours as "\
+                      "long as it is not prohibited by our restrictions. "\
+                      f"We allow {restriction_txt}."
+        else:
+            pet_txt = "We have a pet and we'd love to host yours."
+    elif not pets_have and pets_hosting:
+
+        if pet_restrictions:
+            pet_txt = "We don't have pets, but we'd love to host yours as "\
+                      "long as it is not prohibited by our restrictions. "\
+                      f"We allow {restriction_txt}."
+        else:
+            pet_txt = "We don't have pets, but we'd love to host yours."
+
+    elif pets_have and not pets_hosting:
+        pet_txt = "Our pet(s) only need new human friends."
+
+    elif not pets_have and not pets_hosting:
+        pet_txt = "We provide a pet free environment."
+
+    else:
+        raise ValueError('what the hell....')
+
+    ####smoking####
+    smoking_residents = full_profile['smoking_residents']
+    smoking_allowed = full_profile['smoking_allowed']
+
+    if smoking_residents and smoking_allowed:
+        smoking_txt = "We smoke in the house."
+    elif not smoking_residents and smoking_allowed:
+        smoking_txt = "We don't smoke, but we're ok with "\
+                      "others smoking in the house."
+    elif smoking_residents and not smoking_allowed:
+        smoking_txt = "Our household has smokers but we don't "\
+                      "smoke in the house."
+    elif not smoking_residents and not smoking_allowed:
+        smoking_txt = "We provide a smoke free environment."
+    else:
+        raise ValueError('what the hell....')
+
+    ####drinking####
+    drinking_residents = full_profile['drinking_residents']
+    isconcerned,reason = full_profile['drinking_concerns']
+
+    if drinking_residents and isconcerned:
+        drinking_txt = "We drink alcohol. We have the following concerns "\
+                       f"about drinking: {reason}"
+    elif not drinking_residents and isconcerned:
+        drinking_txt = "No one in the house drinks. We have the following"\
+                       f"conerns about drinking: {reason}"
+    elif drinking_residents and not isconcerned:
+        drinking_txt = "We drink alcohol."
+    elif not drinking_residents and not isconcerned:
+        drinking_txt = "No one in the house drinks alcohol."
+    else:
+        raise ValueError('what the hell....')
+
+    ####substances####
+
+    substances_residents = full_profile['substances_residents']
+    isconcerned,reason = full_profile['substances_concerns']
+
+    if substances_residents and isconcerned:
+        substances_txt = "We use substances. We have concerns about "\
+                         f"substance use: {reason}"
+    elif not substances_residents and isconcerned:
+        substances_txt = "No one in the house uses substances. "\
+                         f"We have concerns about substance use: {reason}"
+    elif substances_residents and not isconcerned:
+        substances_txt = "We use substances."
+    elif not substances_residents and not isconcerned:
+        substances_txt = "No one in the house uses substances."
+    else:
+        raise ValueError('what the hell....')
+
+    ##################
+
+    full_profile['pets_text'] = pet_txt
+    full_profile['drinking_text'] = drinking_txt
+    full_profile['smoking_text'] = smoking_txt
+    full_profile['substances_text'] = substances_txt
+
+    return full_profile
 
 def build_host_profile(fake, *args):
 
@@ -305,8 +406,9 @@ def build_host_profile(fake, *args):
     full_profile['email'] = full_profile['first_name'].lower()\
                             +'.'+full_profile['last_name'].lower()+'@gmail.com'
     full_profile['phone'] = fake.phone_number()
-    full_profile['address'] = fake.address()[:-8]+'CA '\
-                             +fake.postcode_in_state(state_abbr='CA')
+    #full_profile['address'] = fake.address()[:-8]+'CA '\
+    #                         +fake.postcode_in_state(state_abbr='CA')
+    full_profile['address'] = fake.address_short()[1]
 
     if np.random.binomial(n=1,p=0.8):
         full_profile['contact_address'] = full_profile['address']
@@ -326,6 +428,9 @@ def build_host_profile(fake, *args):
         full_profile['pet_restrictions'] = []
     else:
         full_profile['pet_restrictions'] = fake.pet_restrictions()[1]
+
+
+    full_profile = add_custom_text(full_profile)
 
 
     if full_profile['hosting_amount'] == 1:
@@ -361,7 +466,7 @@ def build_host_profile(fake, *args):
 
 
 
-def create_data(n_hosts = 100, filename='fakedata.csv'):
+def create_data(n_hosts = 20, filename='fakehosts21_v2.json'):
 
     fake = Faker()
     fake.add_provider(HostProvider)
@@ -385,7 +490,7 @@ def create_data(n_hosts = 100, filename='fakedata.csv'):
         host['attributes'] = profile
         hosts.append(json.loads(json.dumps(host)))
 
-    with open('fakehosts.txt','w') as ofile:
+    with open(filename,'w') as ofile:
         json.dump(hosts,ofile,indent=1)
     #fake_data = pd.DataFrame.from_dict(rows, orient='columns')
     #fake_data.to_csv(filename,index=False)

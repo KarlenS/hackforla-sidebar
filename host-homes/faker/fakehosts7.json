@@ -1,0 +1,507 @@
+[
+ {
+  "type": "host",
+  "id": "h0",
+  "attributes": {
+   "first_name": "Bonnie",
+   "middle_initial": "A",
+   "last_name": "Wolfe",
+   "dob": "1980-07-09",
+   "gender": "female",
+   "household_members": [
+    {
+     "name": "Dean Church",
+     "age": 40,
+     "relationship": "partner"
+    },
+    {
+     "name": "Audrey Church",
+     "age": 17,
+     "relationship": "daughter"
+    }
+   ],
+   "pets_have": false,
+   "pets_kind": [
+    ],
+   "pets_other": [
+   ],
+   "pets_list": [
+   ],
+   "email": "bonnie@hackforla.com",
+   "phone": "310-555-1212",
+   "address": "12751 Millennium Drive, Unit ABC,\nPlaya Vista, CA, 90094",
+   "contact_address": "13428 Maxella Avenue, 821,\nMarina Del Rey, CA, 90292",
+   "contact_method": "email",
+   "housing_type": "Rented Multi-Unit",
+   "employment_info": "Hack For LA, Executive Director, 2018-10-08 to present",
+   "interests": [
+    "salsa dancing",
+    "extreme volunteering"
+   ],
+   "references": [
+    "Kirk Chu, Friend, 626-555-2222, kkchu791@gmail.com",
+    "Karlen Shahinyan, Friend, 203-773-1669, karlen@hackforla.com"
+   ],
+   "languages": [
+    "English"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": true,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": true,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "respite"
+   ],
+   "hosting_amount": 1,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": true,
+   "youth_relationship": false,
+   "preferred_characteristics": "I prefer someone who is in school or working most of the time.",
+   "hosting_interest": "I would like to provide a platform from where it is easier to make healthy choices.",
+   "hosting_strenghts": "I experienced homelessness from 16-20 and I made many difficult choices because of my circumstances.  So I understand the path forward is not always linear.",
+   "hosting_challenges": "I have been accused of caring too much and I tend to roll up my sleeves and jump in solving problems..  It might be difficult for me to remain objective.  The burden of my lifetime of experience is that it's just MY experience, and while it can be helpful for others when I share it.  No one can design your life or your experiences for you, you must own those choices yourself informed by the information you seek out and process.",
+   "host_intro": "I do not take time off.  I don't believe in work in the traditional way.  I find things I am passionate about and they become my life.  That might be starting a tech company, learning a new skill, running a non profit, or helping friends and loved ones.  It has resulted in a life that is full of wonderfull challenges and people, where I can't ever imagine retiring.   When I was young, my mother isolated me from family in an unsafe environment.  This caused me to become very self reliant.  But I really like connecting with people and subscribe to the idea that life is a team sport.  We do everything better when we find people to do them with, a community that helps eachother when we need to, encourages us to learn from our collective mistakes, and celebrates our wins as if they were their own."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h1",
+  "attributes": {
+   "first_name": "Patricia",
+   "middle_initial": "K",
+   "last_name": "Flowers",
+   "dob": "1934-07-09",
+   "gender": "female",
+   "household_members": [
+    {
+     "name": "Angel Flowers",
+     "age": 47,
+     "relationship": "partner"
+    }
+   ],
+   "pets_have": true,
+   "pets_kind": [
+    "fish",
+    "other",
+    "dog",
+    "reptile"
+   ],
+   "pets_other": [
+    "tree weta"
+   ],
+   "pets_list": [
+    "fish",
+    "dog",
+    "reptile",
+    "tree weta"
+   ],
+   "email": "patricia.flowers@gmail.com",
+   "phone": "(406)569-1642",
+   "address": "197 Arnold Islands Suite 113\nAbigailview, CA 96039",
+   "contact_address": "197 Arnold Islands Suite 113\nAbigailview, CA 96039",
+   "contact_method": "phone",
+   "housing_type": "Owned Multi-Unit",
+   "employment_info": "Analytical chemist, Garcia-Henry, 2010-10-08 to present",
+   "interests": [
+    "wasting time online",
+    "trashy tv",
+    "tinkering",
+    "salsa dancing"
+   ],
+   "references": [
+    "John Nelson, Friend, +1-444-460-5662, john.nelson@gmail.com",
+    "Phillip Hicks, Friend, 893.718.7829x944, phillip.hicks@gmail.com"
+   ],
+   "languages": [
+    "English"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "respite"
+   ],
+   "hosting_amount": 1,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "Whose past despite energy lawyer seven company. Little deep summer mind mind talk.",
+   "hosting_interest": "Address pattern world ok reveal most study take. Serve both next father professional performance.",
+   "hosting_strenghts": "Per certainly writer force nothing exist.",
+   "hosting_challenges": "Standard notice hundred while respond perform again decade. Game sign impact tell wonder. Reveal care ground receive establish red.",
+   "host_intro": "Safe tend such source beat for. Discuss rate enjoy. Since foot different race seem term. Million account subject even able happen. Message expect several later reason. Garden executive much."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h2",
+  "attributes": {
+   "first_name": "Nicholas",
+   "middle_initial": "A",
+   "last_name": "Berry",
+   "dob": "1937-06-02",
+   "gender": "male",
+   "household_members": [
+    {
+     "name": "Katie Berry",
+     "age": 61,
+     "relationship": "partner"
+    }
+   ],
+   "pets_have": true,
+   "pets_kind": [
+    "dog",
+    "bird"
+   ],
+   "pets_other": [],
+   "pets_list": [
+    "dog",
+    "bird"
+   ],
+   "email": "nicholas.berry@gmail.com",
+   "phone": "6471761795",
+   "address": "921 Kathleen Stream\nJohnsonberg, CA 90797",
+   "contact_address": "Unit 1928 Box 8771\nDPO CA 91183",
+   "contact_method": "email",
+   "housing_type": "Owned Apartment",
+   "employment_info": "Youth worker, Wilson Ltd, 2018-10-16 to present",
+   "interests": [
+    "sleeping",
+    "board games",
+    "trashy tv",
+    "movies"
+   ],
+   "references": [
+    "Justin Davis, Friend, 604.503.0167, justin.davis@gmail.com",
+    "Deborah Aguirre, Friend, +1-852-113-8897, deborah.aguirre@gmail.com"
+   ],
+   "languages": [
+    "English"
+   ],
+   "smoking_residents": true,
+   "smoking_allowed": false,
+   "drinking_residents": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    true,
+    "Floor sort not process light magazine investment since."
+   ],
+   "duration_of_stay": [
+    "respite"
+   ],
+   "hosting_amount": 1,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "Difficult family gun east what interest instead. Share meeting indicate store.",
+   "hosting_interest": "Somebody behavior meet gun large say person. Direction spring PM his nature responsibility choice.",
+   "hosting_strenghts": "It take fill purpose win plan. Eye response whose him.",
+   "hosting_challenges": "Cover security someone gas base executive. Future set its short thank. Quality her could respond past price situation. Wonder today performance experience employee guess source.",
+   "host_intro": "Live wide upon. Including card hotel check ball oil. North like response much eye whom join."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h3",
+  "attributes": {
+   "first_name": "Mary",
+   "middle_initial": "T",
+   "last_name": "Frank",
+   "dob": "1995-04-26",
+   "gender": "female",
+   "household_members": [
+    {
+     "name": "William Frank",
+     "age": 55,
+     "relationship": "partner"
+    }
+   ],
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "email": "mary.frank@gmail.com",
+   "phone": "828.776.0174x3949",
+   "address": "11773 Strong Station\nDavidville, CA 95625",
+   "contact_address": "11773 Strong Station\nDavidville, CA 95625",
+   "contact_method": "email",
+   "housing_type": "Owned Mobile Home",
+   "employment_info": "Public affairs consultant, James Inc, 2017-10-26 to present",
+   "interests": [
+    "sleeping",
+    "salsa dancing",
+    "extreme volunteering",
+    "music"
+   ],
+   "references": [
+    "Kara Rodriguez, Friend, 339.084.9952x92867, kara.rodriguez@gmail.com",
+    "Darren Pitts, Friend, 001-273-233-0290, darren.pitts@gmail.com"
+   ],
+   "languages": [
+    "English"
+   ],
+   "smoking_residents": true,
+   "smoking_allowed": false,
+   "drinking_residents": true,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "full"
+   ],
+   "hosting_amount": 3,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "Beat audience phone nice various box country among. Oil fire certain method. Share true company visit whose ball who much.",
+   "hosting_interest": "Brother both measure others defense report economic.",
+   "hosting_strenghts": "City social up official standard. Summer play somebody.",
+   "hosting_challenges": "Action price stand against material player. Across every or writer. Including note voice best get. While cultural sometimes while leave. Also plant base newspaper need simply face.",
+   "host_intro": "Way the huge school. Truth have spend. Oil quite reveal great remember main himself. Piece hotel several interesting expert country strategy. Guy structure chair subject. Or allow huge amount. Prepare in draw service around democratic. Seat tree history mind employee mind run."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h4",
+  "attributes": {
+   "first_name": "Christopher",
+   "middle_initial": "G",
+   "last_name": "Duarte",
+   "dob": "1948-04-27",
+   "gender": "male",
+   "household_members": [
+    {
+     "name": "Paul Duarte",
+     "age": 65,
+     "relationship": "partner"
+    }
+   ],
+   "pets_have": true,
+   "pets_kind": [
+    "bird"
+   ],
+   "pets_other": [],
+   "pets_list": [
+    "bird"
+   ],
+   "email": "christopher.duarte@gmail.com",
+   "phone": "752.643.4795",
+   "address": "012 Taylor Pine Apt. 968\nLake Ryanstad, CA 90743",
+   "contact_address": "012 Taylor Pine Apt. 968\nLake Ryanstad, CA 90743",
+   "contact_method": "phone",
+   "housing_type": "Rented Single Family House",
+   "employment_info": "Editor, magazine features, Martin, Brown and Curtis, 2017-12-10 to present",
+   "interests": [
+    "tinkering",
+    "soccer",
+    "movies",
+    "trashy tv"
+   ],
+   "references": [
+    "Ashley Andrews, Friend, 500.013.4041x3512, ashley.andrews@gmail.com",
+    "Christina Smith, Friend, 001-818-117-2246, christina.smith@gmail.com"
+   ],
+   "languages": [
+    "English"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "respite"
+   ],
+   "hosting_amount": 1,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "On pay assume your section time go. Baby player personal wish store among reason.",
+   "hosting_interest": "Late church your expect guy thing record.",
+   "hosting_strenghts": "Vote debate successful.",
+   "hosting_challenges": "Place ever fire idea describe nature upon. Figure news happen certainly would once. Answer window left risk himself apply fish. Fall later kitchen.",
+   "host_intro": "Officer something force service parent throw center. Meet perform necessary civil best. Third teacher national. Culture play customer simple we. Day attorney recognize skin discussion idea. May care information detail. Go star sister into offer it."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h5",
+  "attributes": {
+   "first_name": "Jacob",
+   "middle_initial": "M",
+   "last_name": "Jones",
+   "dob": "1977-07-25",
+   "gender": "male",
+   "household_members": [
+    {
+     "name": "Joshua Jones",
+     "age": 7,
+     "relationship": "child"
+    },
+    {
+     "name": "Christina Jones",
+     "age": 26,
+     "relationship": "partner"
+    }
+   ],
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "email": "jacob.jones@gmail.com",
+   "phone": "664.722.5136x1887",
+   "address": "8160 Janice Fall\nCindyview, CA 90391",
+   "contact_address": "8160 Janice Fall\nCindyview, CA 90391",
+   "contact_method": "email",
+   "housing_type": "Owned Multi-Unit",
+   "employment_info": "Archaeologist, Hodge-Edwards, 2012-04-20 to present",
+   "interests": [
+    "cheesecakes",
+    "puzzles",
+    "tinkering",
+    "sleeping"
+   ],
+   "references": [
+    "Samantha Davis, Friend, 634.693.9693x970, samantha.davis@gmail.com",
+    "Jason Walker, Friend, 587.308.8001, jason.walker@gmail.com"
+   ],
+   "languages": [
+    "English"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "full",
+    "respite"
+   ],
+   "hosting_amount": 2,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "Dream protect myself local. Start enter get peace mention end walk. Run such everyone far rather example.",
+   "hosting_interest": "Glass weight within thank month serious. Respond scientist produce.",
+   "hosting_strenghts": "Agreement turn must young figure management I. Arm cause six that travel.",
+   "hosting_challenges": "Ask save like care medical entire. Eight mention their south sing.",
+   "host_intro": "Western even church still population network. Design response travel might rule. Again once chance west camera local. Technology in stand identify floor break player. Minute health idea. Offer agent live yard design oil. Position while rich use firm us argue."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h6",
+  "attributes": {
+   "first_name": "Susan",
+   "middle_initial": "K",
+   "last_name": "Fisher",
+   "dob": "1969-05-04",
+   "gender": "female",
+   "household_members": [
+    {
+     "name": "Timothy Fisher",
+     "age": 47,
+     "relationship": "partner"
+    }
+   ],
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "email": "susan.fisher@gmail.com",
+   "phone": "001-598-573-2098x5170",
+   "address": "688 Harmon Skyway\nDownstown, CA 94203",
+   "contact_address": "688 Harmon Skyway\nDownstown, CA 94203",
+   "contact_method": "email",
+   "housing_type": "Rented Multi-Unit",
+   "employment_info": "Sports coach, Walters, Mitchell and Wagner, 2011-01-12 to present",
+   "interests": [
+    "board games",
+    "puzzles",
+    "music",
+    "tinkering"
+   ],
+   "references": [
+    "Robert Barnett, Friend, 001-540-809-6961, robert.barnett@gmail.com",
+    "Dawn Moore, Friend, (184)727-4272x4786, dawn.moore@gmail.com"
+   ],
+   "languages": [
+    "English"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": true,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": true,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "respite"
+   ],
+   "hosting_amount": 3,
+   "pets_hosting": true,
+   "pet_restrictions": [
+    "dog"
+   ],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "Movie gun around. Single eye arm attack century. Often through laugh stock. Sit partner much left let media.",
+   "hosting_interest": "Doctor side condition value fire itself training.",
+   "hosting_strenghts": "Program join dream town put.",
+   "hosting_challenges": "Build pay focus agree when relationship. Whether culture positive develop rise. Age listen let picture. Table similar off option figure. Name believe box beyond know.",
+   "host_intro": "Vote build soldier hold young see. Election lose argue herself staff each chair. I test others simply after picture. Card soon million bit receive television. Author little cause manager education yourself with."
+  }
+ }
+]

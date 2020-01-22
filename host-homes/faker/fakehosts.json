@@ -1,0 +1,596 @@
+[
+ {
+  "type": "host",
+  "id": "h0",
+  "attributes": {
+   "first_name": "Jennifer",
+   "middle_initial": "D",
+   "last_name": "Williams",
+   "dob": "1995-05-10",
+   "gender": "female",
+   "household_members": [
+    {
+     "name": "Dan Williams",
+     "age": 33,
+     "relationship": "partner"
+    }
+   ],
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "email": "jennifer.williams@gmail.com",
+   "phone": "672-927-2294x5735",
+   "address": "7053 Christopher Square Suite 256\nPort Keithton, CA 92590",
+   "contact_address": "7053 Christopher Square Suite 256\nPort Keithton, CA 92590",
+   "contact_method": "email",
+   "housing_type": "Rented Single Family House",
+   "employment_info": "Chief Marketing Officer, Day, Sanchez and Thomas, 2016-12-03 to present",
+   "interests": [
+    "salsa dancing",
+    "tinkering",
+    "cheesecakes",
+    "soccer"
+   ],
+   "references": [
+    "Jessica Rush, Friend, (454)185-0139x03894, jessica.rush@gmail.com",
+    "Timothy Kelley, Friend, (719)312-6564x08343, timothy.kelley@gmail.com"
+   ],
+   "languages": [
+    "English",
+    "Spanish or Spanish Creole"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "full"
+   ],
+   "hosting_amount": 2,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "Skin help customer us establish kitchen her. Present expect old box. Report far perform information owner.",
+   "hosting_interest": "Green provide alone improve space money anything.",
+   "hosting_strenghts": "For teach level authority sea. To hand able own generation.",
+   "hosting_challenges": "While court I us. Break leader plan actually money defense rock church. Chance president song shake position rule. Various out list international short.",
+   "host_intro": "Play culture whom national natural Democrat. Site nation PM medical. Notice different though sell. Whatever former affect prepare move range. Conference everything late moment several see star network. Every player writer join."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h1",
+  "attributes": {
+   "first_name": "Brandy",
+   "middle_initial": "R",
+   "last_name": "Gibbs",
+   "dob": "1962-05-30",
+   "gender": "female",
+   "household_members": [
+    {
+     "name": "Suzanne Gibbs",
+     "age": 50,
+     "relationship": "partner"
+    }
+   ],
+   "pets_have": true,
+   "pets_kind": [
+    "other",
+    "fish"
+   ],
+   "pets_other": [
+    "camel spider"
+   ],
+   "pets_list": [
+    "fish",
+    "camel spider"
+   ],
+   "email": "brandy.gibbs@gmail.com",
+   "phone": "3464759566",
+   "address": "7694 Norman Way\nPhillipmouth, CA 91078",
+   "contact_address": "45443 Alicia Camp\nPaulton, CA 95233",
+   "contact_method": "email",
+   "housing_type": "Owned Single Family House",
+   "employment_info": "Restaurant manager, Gates-Cox, 2013-11-16 to present",
+   "interests": [
+    "plants",
+    "soccer",
+    "salsa dancing",
+    "martial arts"
+   ],
+   "references": [
+    "Lisa Koch, Friend, 001-500-482-2364x5282, lisa.koch@gmail.com",
+    "Jennifer Archer, Friend, +1-448-760-0599, jennifer.archer@gmail.com"
+   ],
+   "languages": [
+    "English",
+    "Spanish or Spanish Creole"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "full"
+   ],
+   "hosting_amount": 3,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": true,
+   "youth_relationship": false,
+   "preferred_characteristics": "Material traditional agency despite popular sort woman season. Read instead old difficult suggest. Billion much through deal generation land reality.",
+   "hosting_interest": "Data couple everyone join group.",
+   "hosting_strenghts": "Research happen structure tell these. Ready now data give brother.",
+   "hosting_challenges": "Either guess cost. Military ago act rock discussion. Similar interesting evidence direction economy.",
+   "host_intro": "Bed really less these impact since service. Suddenly pass administration speech it would half chance. Whole growth senior water try even reduce. Company think article have around because technology."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h2",
+  "attributes": {
+   "first_name": "Eric",
+   "middle_initial": "L",
+   "last_name": "Shields",
+   "dob": "1984-02-07",
+   "gender": "male",
+   "household_members": [
+    {
+     "name": "Michelle Shields",
+     "age": 3,
+     "relationship": "child"
+    }
+   ],
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "email": "eric.shields@gmail.com",
+   "phone": "411-852-9989",
+   "address": "3627 Joseph Ferry\nSouth Julia, CA 93019",
+   "contact_address": "3627 Joseph Ferry\nSouth Julia, CA 93019",
+   "contact_method": "phone",
+   "housing_type": "Owned Multi-Unit",
+   "employment_info": "Administrator, sports, Davis Ltd, 2015-12-19 to present",
+   "interests": [
+    "movies",
+    "music",
+    "parrots",
+    "martial arts"
+   ],
+   "references": [
+    "Kaitlyn Jones, Friend, 081.076.0789x462, kaitlyn.jones@gmail.com",
+    "Christina Ferguson, Friend, 481.976.8516x60977, christina.ferguson@gmail.com"
+   ],
+   "languages": [
+    "English"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "full"
+   ],
+   "hosting_amount": 2,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "Relationship form bring collection enough once half. Fund fast base bit upon box. Pretty citizen across color.",
+   "hosting_interest": "Figure culture new station. Look keep fall interesting radio.",
+   "hosting_strenghts": "Service exist worker term second region cell. Serious rich true employee.",
+   "hosting_challenges": "Why project as model run. Like yourself run president body build feel. Official training set success these probably media woman. Democrat gun approach message.",
+   "host_intro": "Art natural stop. Each fine company. Yet late trouble student speak investment. Small maintain hard chair tonight point. Glass least another budget. Support really suddenly discussion good. Next process worry visit."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h3",
+  "attributes": {
+   "first_name": "Danielle",
+   "middle_initial": "B",
+   "last_name": "Lin",
+   "dob": "1993-08-03",
+   "gender": "female",
+   "household_members": [
+    {
+     "name": "Zachary Lin",
+     "age": 58,
+     "relationship": "partner"
+    },
+    {
+     "name": "Tanya Lin",
+     "age": 8,
+     "relationship": "child"
+    }
+   ],
+   "pets_have": true,
+   "pets_kind": [
+    "cat"
+   ],
+   "pets_other": [],
+   "pets_list": [
+    "cat"
+   ],
+   "email": "danielle.lin@gmail.com",
+   "phone": "001-316-982-2268",
+   "address": "69888 Michael Courts Suite 245\nJonesmouth, CA 91084",
+   "contact_address": "69888 Michael Courts Suite 245\nJonesmouth, CA 91084",
+   "contact_method": "email",
+   "housing_type": "Owned Single Family House",
+   "employment_info": "Therapist, art, Holden-Swanson, 2010-08-10 to present",
+   "interests": [
+    "movies",
+    "parrots",
+    "music",
+    "salsa dancing"
+   ],
+   "references": [
+    "James Patterson, Friend, 548.156.8707x6244, james.patterson@gmail.com",
+    "Jill Hanna, Friend, +1-035-838-7717x147, jill.hanna@gmail.com"
+   ],
+   "languages": [
+    "English"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": true,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "respite"
+   ],
+   "hosting_amount": 2,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "Nation stand bit until writer page already. Mrs speak between story price yard current present.",
+   "hosting_interest": "Mother tough speech maintain understand. Form really end task mention see history year.",
+   "hosting_strenghts": "Tell east middle continue. Fly day tell power response sound scene.",
+   "hosting_challenges": "Nothing and report. Green each structure almost actually. Page increase must enter. Blue name test economy. But agency artist leader final goal call.",
+   "host_intro": "Hot edge strong few as field. Expect like evidence likely off. Tax town with offer. Parent suddenly church through religious table need. Finally audience deep traditional voice candidate. See card project people huge simple night. Since environment dream ask difference. Same remember finally."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h4",
+  "attributes": {
+   "first_name": "Dennis",
+   "middle_initial": "D",
+   "last_name": "Romero",
+   "dob": "1989-04-21",
+   "gender": "male",
+   "household_members": [
+    {
+     "name": "Connie Romero",
+     "age": 65,
+     "relationship": "partner"
+    },
+    {
+     "name": "Angela Romero",
+     "age": 15,
+     "relationship": "child"
+    }
+   ],
+   "pets_have": true,
+   "pets_kind": [
+    "dog",
+    "cat",
+    "other",
+    "bird"
+   ],
+   "pets_other": [
+    "squirrel monkey"
+   ],
+   "pets_list": [
+    "dog",
+    "cat",
+    "bird",
+    "squirrel monkey"
+   ],
+   "email": "dennis.romero@gmail.com",
+   "phone": "105.026.2686x7921",
+   "address": "258 James Ramp Apt. 636\nSaraland, CA 94561",
+   "contact_address": "7748 Christopher Track Apt. 066\nEvanstown, CA 90762",
+   "contact_method": "email",
+   "housing_type": "Owned Single Family House",
+   "employment_info": "Building services engineer, Martin, Hebert and Moore, 2015-05-21 to present",
+   "interests": [
+    "board games",
+    "chess",
+    "salsa dancing",
+    "martial arts"
+   ],
+   "references": [
+    "Bradley Duncan, Friend, (867)607-9771x0396, bradley.duncan@gmail.com",
+    "Kevin Hicks, Friend, (748)692-0270x69365, kevin.hicks@gmail.com"
+   ],
+   "languages": [
+    "English"
+   ],
+   "smoking_residents": true,
+   "smoking_allowed": false,
+   "drinking_residents": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "full"
+   ],
+   "hosting_amount": 2,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": true,
+   "preferred_characteristics": "Involve window your keep prove walk. Can southern rule line eight cover.",
+   "hosting_interest": "Man specific end fight. Good must national really anything.",
+   "hosting_strenghts": "White food hear rather not pay. Argue central clearly school act agent.",
+   "hosting_challenges": "Do run school ready small. Each chair cut consider hold kitchen year. Follow type rich. Green choose do enough share long media.",
+   "host_intro": "Believe trial carry down trip. Population Congress nature upon officer theory also. Happy work whole think at. Benefit section daughter true these word."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h5",
+  "attributes": {
+   "first_name": "Kristi",
+   "middle_initial": "C",
+   "last_name": "Walsh",
+   "dob": "1984-01-16",
+   "gender": "nb",
+   "household_members": [
+    {
+     "name": "James Walsh",
+     "age": 44,
+     "relationship": "partner"
+    }
+   ],
+   "pets_have": true,
+   "pets_kind": [
+    "other"
+   ],
+   "pets_other": [
+    "falcon",
+    "wallaby"
+   ],
+   "pets_list": [
+    "falcon",
+    "wallaby"
+   ],
+   "email": "kristi.walsh@gmail.com",
+   "phone": "001-110-004-0739",
+   "address": "88125 Mason Fall\nJamesborough, CA 93831",
+   "contact_address": "88125 Mason Fall\nJamesborough, CA 93831",
+   "contact_method": "email",
+   "housing_type": "Rented Apartment",
+   "employment_info": "Chief Technology Officer, Lee LLC, 2010-03-29 to present",
+   "interests": [
+    "cheesecakes",
+    "salsa dancing",
+    "movies",
+    "parrots"
+   ],
+   "references": [
+    "Nicholas Anderson, Friend, 227.904.9522x9464, nicholas.anderson@gmail.com",
+    "Jennifer Gomez, Friend, 189-366-4347, jennifer.gomez@gmail.com"
+   ],
+   "languages": [
+    "English",
+    "Spanish or Spanish Creole"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": true,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "full",
+    "respite"
+   ],
+   "hosting_amount": 3,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": true,
+   "youth_relationship": false,
+   "preferred_characteristics": "Language beautiful sea whom power. Try team question discuss prepare pretty.",
+   "hosting_interest": "Respond line more picture employee notice loss.",
+   "hosting_strenghts": "Mr car never my send.",
+   "hosting_challenges": "Late money month compare call think against. Suddenly break mind political reason girl hold. Personal issue song sometimes single environment compare. Figure factor relationship history political too big factor. Book tough many poor friend.",
+   "host_intro": "Case stand subject account rule near body. Blood anyone make environment activity space community. Leg medical learn security. Debate field clear response major enough particular structure. Fact bag author a every bar. Able available race arm price blood seek. No there human old to moment financial."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h6",
+  "attributes": {
+   "first_name": "Jessica",
+   "middle_initial": "J",
+   "last_name": "Myers",
+   "dob": "1998-10-27",
+   "gender": "female",
+   "household_members": [
+    {
+     "name": "Erica Myers",
+     "age": 77,
+     "relationship": "partner"
+    },
+    {
+     "name": "Tony Myers",
+     "age": 5,
+     "relationship": "child"
+    }
+   ],
+   "pets_have": true,
+   "pets_kind": [
+    "other"
+   ],
+   "pets_other": [
+    "tree weta"
+   ],
+   "pets_list": [
+    "tree weta"
+   ],
+   "email": "jessica.myers@gmail.com",
+   "phone": "001-561-229-8250x2814",
+   "address": "404 Alexander Plaza Apt. 889\nMarymouth, CA 94141",
+   "contact_address": "404 Alexander Plaza Apt. 889\nMarymouth, CA 94141",
+   "contact_method": "email",
+   "housing_type": "Rented Multi-Unit",
+   "employment_info": "Therapist, speech and language, Pineda Ltd, 2018-01-11 to present",
+   "interests": [
+    "plants",
+    "salsa dancing",
+    "trashy tv",
+    "martial arts"
+   ],
+   "references": [
+    "Kathleen Murray, Friend, +1-285-205-2202x566, kathleen.murray@gmail.com",
+    "Mark Lynch, Friend, 001-230-157-2937, mark.lynch@gmail.com"
+   ],
+   "languages": [
+    "English",
+    "Spanish or Spanish Creole"
+   ],
+   "smoking_residents": true,
+   "smoking_allowed": false,
+   "drinking_residents": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "duration_of_stay": [
+    "full"
+   ],
+   "hosting_amount": 5,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "Happy home before contain hit. Care house nature else simply.",
+   "hosting_interest": "No hour research economic science inside.",
+   "hosting_strenghts": "Apply country partner per check. Instead experience generation power.",
+   "hosting_challenges": "His exist authority hear. Service collection degree. Recent they federal read way series. She recognize record somebody hope degree.",
+   "host_intro": "Total PM debate technology stand test simply administration. Half hotel have race bit later. A stop less sell line thought. While young dog clear close."
+  }
+ },
+ {
+  "type": "host",
+  "id": "h7",
+  "attributes": {
+   "first_name": "Christina",
+   "middle_initial": "J",
+   "last_name": "Edwards",
+   "dob": "1943-11-29",
+   "gender": "female",
+   "household_members": [
+    {
+     "name": "Cameron Edwards",
+     "age": 45,
+     "relationship": "partner"
+    }
+   ],
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "email": "christina.edwards@gmail.com",
+   "phone": "819.846.7395x37924",
+   "address": "133 Cross Parks Suite 677\nRachelview, CA 93616",
+   "contact_address": "133 Cross Parks Suite 677\nRachelview, CA 93616",
+   "contact_method": "email",
+   "housing_type": "Rented Single Family House",
+   "employment_info": "Engineer, communications, Jackson, Martinez and Morrison, 2017-07-16 to present",
+   "interests": [
+    "chess",
+    "parrots",
+    "board games",
+    "basketball"
+   ],
+   "references": [
+    "Michael Cortez, Friend, 461.060.3019x777, michael.cortez@gmail.com",
+    "Sarah Escobar, Friend, 838-556-5263, sarah.escobar@gmail.com"
+   ],
+   "languages": [
+    "Serbo-Croatian"
+   ],
+   "smoking_residents": false,
+   "smoking_allowed": false,
+   "drinking_residents": true,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "substances_residents": true,
+   "substances_concerns": [
+    true,
+    "Official close have ever answer culture lead."
+   ],
+   "duration_of_stay": [
+    "full"
+   ],
+   "hosting_amount": 3,
+   "pets_hosting": false,
+   "pet_restrictions": [],
+   "youth_parenting": false,
+   "youth_relationship": false,
+   "preferred_characteristics": "Animal happen marriage meeting head. Stay me school pay. Be get feeling future book use song.",
+   "hosting_interest": "House plan race station do.",
+   "hosting_strenghts": "Set while report able production up. Attention reduce worry such note American alone.",
+   "hosting_challenges": "Seven it agency third yourself idea. Above agent budget matter effort available house. Situation add peace.",
+   "host_intro": "News respond top last. Television idea choose prepare. Hot treat ready television account tend. Give friend country both few one. Voice really responsibility hair matter pressure. Arrive tax nor health."
+  }
+ }
+]

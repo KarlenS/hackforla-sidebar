@@ -1,0 +1,419 @@
+[
+ {
+  "type": "guest",
+  "id": "g0",
+  "attributes": {
+   "first_name": "Debra",
+   "middle_initial": "M",
+   "last_name": "Wilks",
+   "dob": "2001-10-13",
+   "gender": "female",
+   "household_members": [],
+   "email": "debra.wilks@gmail.com",
+   "phone": "213.282.4497",
+   "contact_method": "email",
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "host_pets": false,
+   "host_pet_restrictions": [],
+   "employed": true,
+   "employment_info": "Admin assistant, Johnsons and Johnsons, 2016-03-06 to present",
+   "in_school": false,
+   "school_info": "NA",
+   "languages": [
+    "English"
+   ],
+   "smoking_guest": true,
+   "smoking_household_acceptable": false,
+   "drinking_guest": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "drinking_household_acceptable": true,
+   "substances_guest": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "substances_household_acceptable": true,
+   "duration_of_stay": [
+    "respite"
+   ],
+   "mental_illness": false,
+   "mental_illness_description": "NA",
+   "mental_illness_care": false,
+   "number_of_guests": 1,
+   "parenting_guest": false,
+   "guests_relationship": false,
+   "guest_stay_statement": "",
+   "guest_stay_relationship": "I am easy going and can live with anyone. I look forward to developing a friendly and respectful relationship with my potential hosts.",
+   "guest_challenges": "I do not foresee any major conflicts between me and my hosts. I rely on public transport and it might be challenging getting around if the location is far from bus stops or train stations.",
+   "guest_intro": "I'm a very driven individual, but I have been struggling to find my place after graduating high school. I enjoy watching mystery thrillers, listening to heavy metal, and skateboarding."
+  }
+ },
+ {
+  "type": "guest",
+  "id": "g1",
+  "attributes": {
+   "first_name": "Oscar",
+   "middle_initial": "M",
+   "last_name": "Scott",
+   "dob": "1969-10-13",
+   "gender": "male",
+   "household_members": [],
+   "email": "oscar.scott@gmail.com",
+   "phone": "063.282.4497",
+   "contact_method": "email",
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "host_pets": false,
+   "host_pet_restrictions": [],
+   "employed": true,
+   "employment_info": "Retail buyer, Neal-Baker, 2016-03-06 to present",
+   "in_school": true,
+   "school_info": "Character front politics adult.",
+   "languages": [
+    "English"
+   ],
+   "smoking_guest": false,
+   "smoking_household_acceptable": false,
+   "drinking_guest": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "drinking_household_acceptable": true,
+   "substances_guest": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "substances_household_acceptable": true,
+   "duration_of_stay": [
+    "full"
+   ],
+   "mental_illness": true,
+   "mental_illness_description": "Party ago early.",
+   "mental_illness_care": true,
+   "number_of_guests": 1,
+   "parenting_guest": false,
+   "guests_relationship": false,
+   "guest_stay_statement": "Citizen movement east. Assume second at language parent analysis. Focus within increase difficult whatever because indicate. Edge impact fire majority either.",
+   "guest_stay_relationship": "Five skin ask far attack yard. Knowledge police child or energy marriage capital article. Case director among gas friend.",
+   "guest_challenges": "Provide itself space beyond. Physical whatever health civil.",
+   "guest_intro": "Federal bag knowledge move million. Also really up any and. For yourself travel consumer. Detail weight child culture. Join have affect nearly difficult learn. Reality southern amount bed why."
+  }
+ },
+ {
+  "type": "guest",
+  "id": "g2",
+  "attributes": {
+   "first_name": "Austin",
+   "middle_initial": "C",
+   "last_name": "Jacobs",
+   "dob": "1990-09-05",
+   "gender": "male",
+   "household_members": [],
+   "email": "austin.jacobs@gmail.com",
+   "phone": "+1-946-032-5816",
+   "contact_method": "phone",
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "host_pets": true,
+   "host_pet_restrictions": [
+    "dog",
+    "cat"
+   ],
+   "employed": true,
+   "employment_info": "Physiological scientist, Whitney and Sons, 2010-02-05 to present",
+   "in_school": false,
+   "school_info": "Ground save sign along fine management.",
+   "languages": [
+    "English"
+   ],
+   "smoking_guest": false,
+   "smoking_household_acceptable": false,
+   "drinking_guest": true,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "drinking_household_acceptable": true,
+   "substances_guest": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "substances_household_acceptable": true,
+   "duration_of_stay": [
+    "full"
+   ],
+   "mental_illness": false,
+   "mental_illness_description": "",
+   "mental_illness_care": false,
+   "number_of_guests": 1,
+   "parenting_guest": false,
+   "guests_relationship": false,
+   "guest_stay_statement": "They box right whole low down. Important summer probably want study sea. Necessary senior recent. Nature instead think rich hope such change ability. Piece purpose unit kind it chance radio. Morning year call medical until.",
+   "guest_stay_relationship": "Key claim these deal base tell another. Build body high you set couple control let.",
+   "guest_challenges": "Yet myself east boy. Pick how employee. Collection after section school return quickly.",
+   "guest_intro": "Fall test myself since article almost somebody instead. Real teacher also together. Both rock fill oil success. Choice notice imagine. Father others statement worry high feel support. Open new surface enough agency nation. Miss thought wide such stay."
+  }
+ },
+ {
+  "type": "guest",
+  "id": "g3",
+  "attributes": {
+   "first_name": "Taylor",
+   "middle_initial": "K",
+   "last_name": "Ramirez",
+   "dob": "1931-11-30",
+   "gender": "female",
+   "household_members": [
+    {
+     "name": "Kenneth Ramirez",
+     "age": 56,
+     "relationship": "sibling"
+    }
+   ],
+   "email": "taylor.ramirez@gmail.com",
+   "phone": "+1-693-944-8133",
+   "contact_method": "phone",
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "host_pets": true,
+   "host_pet_restrictions": [
+    "cat"
+   ],
+   "employed": false,
+   "employment_info": "Banker, Bishop-Gonzalez, 2017-07-19 to present",
+   "in_school": false,
+   "school_info": "Enjoy truth war use single.",
+   "languages": [
+    "English",
+    "Spanish or Spanish Creole"
+   ],
+   "smoking_guest": false,
+   "smoking_household_acceptable": false,
+   "drinking_guest": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "drinking_household_acceptable": false,
+   "substances_guest": true,
+   "substances_concerns": [
+    true,
+    "Nation fine imagine now expert physical."
+   ],
+   "substances_household_acceptable": true,
+   "duration_of_stay": [
+    "full"
+   ],
+   "mental_illness": false,
+   "mental_illness_description": "",
+   "mental_illness_care": false,
+   "number_of_guests": 2,
+   "parenting_guest": false,
+   "guests_relationship": false,
+   "guest_stay_statement": "Half camera field share. Offer activity owner people democratic size class. Red side help down.",
+   "guest_stay_relationship": "He on call shake. Outside light rather. Box cup could during laugh.",
+   "guest_challenges": "Little house office until feel interesting everything.",
+   "guest_intro": "Actually report turn write similar option. Detail nice movement identify. Kind finish six lot number. Require reveal may serious democratic. Among his herself free history."
+  }
+ },
+ {
+  "type": "guest",
+  "id": "g4",
+  "attributes": {
+   "first_name": "Jeffrey",
+   "middle_initial": "E",
+   "last_name": "Johnson",
+   "dob": "1935-12-28",
+   "gender": "male",
+   "household_members": [
+    {
+     "name": "Julie Johnson",
+     "age": 48,
+     "relationship": "sibling"
+    }
+   ],
+   "email": "jeffrey.johnson@gmail.com",
+   "phone": "(109)343-9149",
+   "contact_method": "phone",
+   "pets_have": true,
+   "pets_kind": [
+    "dog"
+   ],
+   "pets_other": [],
+   "pets_list": [
+    "dog"
+   ],
+   "host_pets": true,
+   "host_pet_restrictions": [
+    "reptile"
+   ],
+   "employed": false,
+   "employment_info": "Editor, magazine features, Palmer, Long and Whitaker, 2015-05-14 to present",
+   "in_school": true,
+   "school_info": "Situation simply pull past our modern drug.",
+   "languages": [
+    "English",
+    "Spanish or Spanish Creole"
+   ],
+   "smoking_guest": false,
+   "smoking_household_acceptable": true,
+   "drinking_guest": false,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "drinking_household_acceptable": true,
+   "substances_guest": true,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "substances_household_acceptable": false,
+   "duration_of_stay": [
+    "full"
+   ],
+   "mental_illness": false,
+   "mental_illness_description": "",
+   "mental_illness_care": false,
+   "number_of_guests": 2,
+   "parenting_guest": false,
+   "guests_relationship": false,
+   "guest_stay_statement": "Son world consider tax determine science with. Design evening sort attorney manager anything. Sister often than interview challenge save. Meeting response operation hour stock. Sound available shake develop set maybe know. At city power conference fear small.",
+   "guest_stay_relationship": "Continue computer hand him board its entire. List practice easy easy gas. Likely morning debate audience serious team make.",
+   "guest_challenges": "Week until easy sometimes. Us near against natural.",
+   "guest_intro": "Vote standard between between fight wear station. Instead pressure feel performance win mother moment. Believe imagine everything land employee here maintain. Maintain trouble visit treatment reality baby level."
+  }
+ },
+ {
+  "type": "guest",
+  "id": "g5",
+  "attributes": {
+   "first_name": "Donald",
+   "middle_initial": "M",
+   "last_name": "Hudson",
+   "dob": "1968-05-04",
+   "gender": "male",
+   "household_members": [],
+   "email": "donald.hudson@gmail.com",
+   "phone": "041.592.7985x082",
+   "contact_method": "email",
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "host_pets": true,
+   "host_pet_restrictions": [
+    "dog",
+    "cat"
+   ],
+   "employed": false,
+   "employment_info": "Agricultural engineer, Hansen-Brown, 2016-02-13 to present",
+   "in_school": true,
+   "school_info": "Animal team eye however chance professor.",
+   "languages": [
+    "English",
+    "Spanish or Spanish Creole"
+   ],
+   "smoking_guest": false,
+   "smoking_household_acceptable": false,
+   "drinking_guest": true,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "drinking_household_acceptable": false,
+   "substances_guest": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "substances_household_acceptable": true,
+   "duration_of_stay": [
+    "full"
+   ],
+   "mental_illness": false,
+   "mental_illness_description": "",
+   "mental_illness_care": false,
+   "number_of_guests": 1,
+   "parenting_guest": false,
+   "guests_relationship": false,
+   "guest_stay_statement": "These specific effect news social church fast. Term white seek remain only. Medical quality face after check. Garden dinner population organization leg window. Partner sometimes may report allow. Research forward bed citizen any face.",
+   "guest_stay_relationship": "Upon art such. Man paper push bed.",
+   "guest_challenges": "Medical quickly lawyer environment happen red on. Particular court partner off ahead year medical.",
+   "guest_intro": "Democratic region one hold entire record. Vote simple true among. Box college actually our very."
+  }
+ },
+ {
+  "type": "guest",
+  "id": "g6",
+  "attributes": {
+   "first_name": "Virginia",
+   "middle_initial": "J",
+   "last_name": "Miller",
+   "dob": "1995-08-15",
+   "gender": "female",
+   "household_members": [],
+   "email": "virginia.miller@gmail.com",
+   "phone": "001-406-978-2014x96265",
+   "contact_method": "email",
+   "pets_have": false,
+   "pets_kind": [],
+   "pets_other": [],
+   "pets_list": [],
+   "host_pets": true,
+   "host_pet_restrictions": [
+    "cat"
+   ],
+   "employed": true,
+   "employment_info": "Therapist, nutritional, Mcintosh LLC, 2018-08-02 to present",
+   "in_school": false,
+   "school_info": "Loss whatever defense particularly order drop interview easy.",
+   "languages": [
+    "English",
+    "Spanish or Spanish Creole"
+   ],
+   "smoking_guest": true,
+   "smoking_household_acceptable": true,
+   "drinking_guest": true,
+   "drinking_concerns": [
+    false,
+    ""
+   ],
+   "drinking_household_acceptable": true,
+   "substances_guest": false,
+   "substances_concerns": [
+    false,
+    ""
+   ],
+   "substances_household_acceptable": true,
+   "duration_of_stay": [
+    "respite"
+   ],
+   "mental_illness": false,
+   "mental_illness_description": "",
+   "mental_illness_care": false,
+   "number_of_guests": 1,
+   "parenting_guest": false,
+   "guests_relationship": false,
+   "guest_stay_statement": "Life reach several dark near. Respond claim born amount sense trip whether. Whatever difficult decade seven be out. Including either say call radio security. Someone win yet five brother. Book find already perhaps Congress former.",
+   "guest_stay_relationship": "His writer draw.",
+   "guest_challenges": "Performance anyone study turn who suggest raise upon. Entire next really reveal wonder arrive unit step. Blue strategy bag which Mrs right full.",
+   "guest_intro": "Just thousand too thank recognize computer. Class interesting most process line several. Item improve manage population itself why. Car each figure factor. Agency moment race feel financial."
+  }
+ }
+]

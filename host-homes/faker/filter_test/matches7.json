@@ -1,0 +1,757 @@
+[
+ {
+  "guestId": "g0",
+  "hostId": "h0",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g0",
+  "hostId": "h1",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g0",
+  "hostId": "h2",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g0",
+  "hostId": "h3",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "full"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "respite"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g0",
+  "hostId": "h4",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g0",
+  "hostId": "h5",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g0",
+  "hostId": "h6",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g1",
+  "hostId": "h0",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g1",
+  "hostId": "h1",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g1",
+  "hostId": "h2",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g1",
+  "hostId": "h3",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g1",
+  "hostId": "h4",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g1",
+  "hostId": "h5",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g1",
+  "hostId": "h6",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g2",
+  "hostId": "h0",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g2",
+  "hostId": "h1",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "pets_list",
+    "hostResponseValue": [
+     "fish",
+     "dog",
+     "reptile",
+     "tree weta"
+    ],
+    "guestQuestionKey": "host_pet_restrictions",
+    "guestResponseValue": [
+     "dog",
+     "cat"
+    ]
+   },
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g2",
+  "hostId": "h2",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "pets_list",
+    "hostResponseValue": [
+     "dog",
+     "bird"
+    ],
+    "guestQuestionKey": "host_pet_restrictions",
+    "guestResponseValue": [
+     "dog",
+     "cat"
+    ]
+   },
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g2",
+  "hostId": "h3",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g2",
+  "hostId": "h4",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g2",
+  "hostId": "h5",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g2",
+  "hostId": "h6",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g3",
+  "hostId": "h0",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "hosting_amount",
+    "hostResponseValue": 1,
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": 2
+   },
+   {
+    "hostQuestionKey": "drinking_residents",
+    "hostResponseValue": true,
+    "guestQuestionKey": "drinking_household_acceptable",
+    "guestResponseValue": false
+   }
+  ]
+ },
+ {
+  "guestId": "g3",
+  "hostId": "h1",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "hosting_amount",
+    "hostResponseValue": 1,
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": 2
+   }
+  ]
+ },
+ {
+  "guestId": "g3",
+  "hostId": "h2",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "hosting_amount",
+    "hostResponseValue": 1,
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": 2
+   }
+  ]
+ },
+ {
+  "guestId": "g3",
+  "hostId": "h3",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "drinking_residents",
+    "hostResponseValue": true,
+    "guestQuestionKey": "drinking_household_acceptable",
+    "guestResponseValue": false
+   }
+  ]
+ },
+ {
+  "guestId": "g3",
+  "hostId": "h4",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "hosting_amount",
+    "hostResponseValue": 1,
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": 2
+   }
+  ]
+ },
+ {
+  "guestId": "g3",
+  "hostId": "h5",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g3",
+  "hostId": "h6",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "drinking_residents",
+    "hostResponseValue": true,
+    "guestQuestionKey": "drinking_household_acceptable",
+    "guestResponseValue": false
+   }
+  ]
+ },
+ {
+  "guestId": "g4",
+  "hostId": "h0",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "pet_restrictions",
+    "hostResponseValue": [],
+    "guestQuestionKey": "pets_list",
+    "guestResponseValue": [
+     "dog"
+    ]
+   },
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "hosting_amount",
+    "hostResponseValue": 1,
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": 2
+   },
+   {
+    "hostQuestionKey": "substances_residents",
+    "hostResponseValue": true,
+    "guestQuestionKey": "substances_household_acceptable",
+    "guestResponseValue": false
+   }
+  ]
+ },
+ {
+  "guestId": "g4",
+  "hostId": "h1",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "pet_restrictions",
+    "hostResponseValue": [],
+    "guestQuestionKey": "pets_list",
+    "guestResponseValue": [
+     "dog"
+    ]
+   },
+   {
+    "hostQuestionKey": "pets_list",
+    "hostResponseValue": [
+     "fish",
+     "dog",
+     "reptile",
+     "tree weta"
+    ],
+    "guestQuestionKey": "host_pet_restrictions",
+    "guestResponseValue": [
+     "reptile"
+    ]
+   },
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "hosting_amount",
+    "hostResponseValue": 1,
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": 2
+   }
+  ]
+ },
+ {
+  "guestId": "g4",
+  "hostId": "h2",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "pet_restrictions",
+    "hostResponseValue": [],
+    "guestQuestionKey": "pets_list",
+    "guestResponseValue": [
+     "dog"
+    ]
+   },
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "hosting_amount",
+    "hostResponseValue": 1,
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": 2
+   }
+  ]
+ },
+ {
+  "guestId": "g4",
+  "hostId": "h3",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "pet_restrictions",
+    "hostResponseValue": [],
+    "guestQuestionKey": "pets_list",
+    "guestResponseValue": [
+     "dog"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g4",
+  "hostId": "h4",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "pet_restrictions",
+    "hostResponseValue": [],
+    "guestQuestionKey": "pets_list",
+    "guestResponseValue": [
+     "dog"
+    ]
+   },
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "hosting_amount",
+    "hostResponseValue": 1,
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": 2
+   }
+  ]
+ },
+ {
+  "guestId": "g4",
+  "hostId": "h5",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "pet_restrictions",
+    "hostResponseValue": [],
+    "guestQuestionKey": "pets_list",
+    "guestResponseValue": [
+     "dog"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g4",
+  "hostId": "h6",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "substances_residents",
+    "hostResponseValue": true,
+    "guestQuestionKey": "substances_household_acceptable",
+    "guestResponseValue": false
+   }
+  ]
+ },
+ {
+  "guestId": "g5",
+  "hostId": "h0",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "drinking_residents",
+    "hostResponseValue": true,
+    "guestQuestionKey": "drinking_household_acceptable",
+    "guestResponseValue": false
+   }
+  ]
+ },
+ {
+  "guestId": "g5",
+  "hostId": "h1",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "pets_list",
+    "hostResponseValue": [
+     "fish",
+     "dog",
+     "reptile",
+     "tree weta"
+    ],
+    "guestQuestionKey": "host_pet_restrictions",
+    "guestResponseValue": [
+     "dog",
+     "cat"
+    ]
+   },
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g5",
+  "hostId": "h2",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "pets_list",
+    "hostResponseValue": [
+     "dog",
+     "bird"
+    ],
+    "guestQuestionKey": "host_pet_restrictions",
+    "guestResponseValue": [
+     "dog",
+     "cat"
+    ]
+   },
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g5",
+  "hostId": "h3",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "drinking_residents",
+    "hostResponseValue": true,
+    "guestQuestionKey": "drinking_household_acceptable",
+    "guestResponseValue": false
+   }
+  ]
+ },
+ {
+  "guestId": "g5",
+  "hostId": "h4",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g5",
+  "hostId": "h5",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g5",
+  "hostId": "h6",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "respite"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "full"
+    ]
+   },
+   {
+    "hostQuestionKey": "drinking_residents",
+    "hostResponseValue": true,
+    "guestQuestionKey": "drinking_household_acceptable",
+    "guestResponseValue": false
+   }
+  ]
+ },
+ {
+  "guestId": "g6",
+  "hostId": "h0",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g6",
+  "hostId": "h1",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g6",
+  "hostId": "h2",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g6",
+  "hostId": "h3",
+  "restrictionsFailed": [
+   {
+    "hostQuestionKey": "duration_of_stay",
+    "hostResponseValue": [
+     "full"
+    ],
+    "guestQuestionKey": "duration_of_stay",
+    "guestResponseValue": [
+     "respite"
+    ]
+   }
+  ]
+ },
+ {
+  "guestId": "g6",
+  "hostId": "h4",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g6",
+  "hostId": "h5",
+  "restrictionsFailed": []
+ },
+ {
+  "guestId": "g6",
+  "hostId": "h6",
+  "restrictionsFailed": []
+ }
+]
